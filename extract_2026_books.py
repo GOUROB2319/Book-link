@@ -1,14 +1,14 @@
 ﻿from __future__ import annotations
 
-import argparse
 import json
 import re
-from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 
 ROOT = Path(r"c:\Users\GourobSaha\OneDrive - Gourob Saha\Downloads\Book-link")
+SRC_DIR = ROOT / "2026"
+OUT_FILE = ROOT / "nctb_2026_all_books_links.json"
 
 BN_DIGITS = str.maketrans("০১২৩৪৫৬৭৮৯", "0123456789")
 
@@ -125,13 +125,6 @@ def parse_serial(text: str) -> int | None:
     return int(m.group()) if m else None
 
 
-def analyze_url(url: str) -> tuple[str | None, bool]:
-    parsed = urlparse(url)
-    if parsed.scheme in {"http", "https"} and parsed.netloc and "." in parsed.netloc:
-        return parsed.netloc, False
-    return None, True
-
-
 def extract_books_from_file(path: Path) -> tuple[list[dict], dict]:
     html = path.read_text(encoding="utf-8", errors="ignore")
     soup = BeautifulSoup(html, "html.parser")
@@ -244,7 +237,7 @@ def extract_books_from_file(path: Path) -> tuple[list[dict], dict]:
 
                 if c["links"]:
                     for li in c["links"]:
-                        host, invalid_url = analyze_url(li["url"])
+                        host = urlparse(li["url"]).netloc
                         download_links.append(
                             {
                                 "variant": variant,
@@ -253,7 +246,6 @@ def extract_books_from_file(path: Path) -> tuple[list[dict], dict]:
                                 "label": li["link_text"],
                                 "url": li["url"],
                                 "host": host,
-                                "invalid_url": invalid_url,
                             }
                         )
                 elif "ডাউনলোড" in c["text"] or "download" in c["text"].lower():
@@ -326,18 +318,7 @@ def extract_books_from_file(path: Path) -> tuple[list[dict], dict]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Extract all NCTB book rows and download links from local HTML files.")
-    parser.add_argument("--folder", default="2026", help="Source folder under project root (e.g. 2025 or 2026).")
-    parser.add_argument("--out", default=None, help="Optional output JSON file path.")
-    args = parser.parse_args()
-
-    src_dir = ROOT / args.folder
-    if not src_dir.exists() or not src_dir.is_dir():
-        raise FileNotFoundError(f"Source folder not found: {src_dir}")
-
-    out_file = Path(args.out) if args.out else ROOT / f"nctb_{args.folder}_all_books_links.json"
-
-    files = sorted(src_dir.glob("*.html"))
+    files = sorted(SRC_DIR.glob("*.html"))
     all_records: list[dict] = []
     file_summaries: list[dict] = []
 
@@ -354,14 +335,14 @@ def main() -> None:
             total_links += 1
             if li.get("missing_url"):
                 missing_link_slots += 1
-            host = li.get("host") or ("invalid" if li.get("invalid_url") else "missing")
+            host = li.get("host") or "missing"
             hosts[host] = hosts.get(host, 0) + 1
 
     out = {
         "metadata": {
             "generated_from": "Local HTML files provided by user",
-            "source_directory": str(src_dir.relative_to(ROOT)).replace("\\", "/"),
-            "generated_at": date.today().isoformat(),
+            "source_directory": str(SRC_DIR.relative_to(ROOT)).replace("\\", "/"),
+            "generated_at": "2026-03-01",
             "total_source_files": len(files),
             "total_book_records": len(all_records),
             "total_download_link_entries": total_links,
@@ -372,8 +353,8 @@ def main() -> None:
         "books": all_records,
     }
 
-    out_file.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Written: {out_file}")
+    OUT_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Written: {OUT_FILE}")
     print(f"Files: {len(files)} | Records: {len(all_records)} | Links: {total_links} | Missing URLs: {missing_link_slots}")
 
 
