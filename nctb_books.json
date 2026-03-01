@@ -1,0 +1,3516 @@
+{
+  "metadata": {
+    "total_books": 143,
+    "years": [
+      "২০২৫",
+      "২০২৬"
+    ],
+    "education_levels": [
+      "প্রাথমিক",
+      "মাধ্যমিক"
+    ],
+    "classes": [
+      "৪র্থ শ্রেণি",
+      "৬ষ্ঠ শ্রেণি",
+      "১ম শ্রেণি",
+      "৯ম-১০ম শ্রেণি",
+      "৮ম শ্রেণি",
+      "অন্যান্য শ্রেণি",
+      "৭ম শ্রেণি",
+      "৫ম শ্রেণি"
+    ],
+    "languages": [
+      "ইংরেজি",
+      "বাংলা"
+    ],
+    "extraction_date": "2025-03-01"
+  },
+  "books": [
+    {
+      "serial": "১।",
+      "book_name": "আমার বাংলা বই",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৪র্থ শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1n3TZcBdT8LQppREBDU3h6oOhTmlGlrY_/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/IozWOFvdANJSEdF",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "২।",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৪র্থ শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1O6Uot8tmM1sktx875bablzbXoB83A1JK/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/1j2rEI7OxLzEoOY",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৩।",
+      "book_name": "প্রাথমিক গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৪র্থ শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1BIpqtGydNFcZ_fmFRhRuNHxd2AjcwGT6/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/uKDJCgPEcHIw1hc",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৪।",
+      "book_name": "প্রাথমিক বিজ্ঞান",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৪র্থ শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1I4tHlMPLoeCKHL_HbHgTC_UL9nOi33M7/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/DjWUmB5lfIjZmG3",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৫।",
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৪র্থ শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1u-YcHCshH8Zn9X04S6ZTzqJ8ebmLG-dJ/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/2kMNI09cv9k6Kbv",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৬।",
+      "book_name": "ইসলাম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ইসলাম শিক্ষা",
+      "class": "৪র্থ শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1shmJzRTTZzGAdeKXgqFcBov1Oj5oBIOV/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/0W1ZuLniASJ86co",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৭।",
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ধর্ম",
+      "class": "৪র্থ শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1So1EDbx6NbWkEZ3UUMEuK6sEUaL-II4v/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/BDUDLo4mC2HWiI9",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৮।",
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ধর্ম",
+      "class": "৪র্থ শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1MvBd2bfO709qHvshW12ovvuwcrblXHzI/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/VltzTcH6Y9KryaW",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৯।",
+      "book_name": "খ্রিষ্টধর্ম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ধর্ম",
+      "class": "৪র্থ শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1fxX5PcCGAiy2CNUhH-B5sPqromAFVSB_/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/54c7AlsHinLDoH9",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "১।",
+      "book_name": "আমার বাংলা বই",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1VTG5E09kWhbMJGscXbbP0TUoxq_8DU64/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/f80WcbeAaCFlBXW",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "২।",
+      "book_name": "English for Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1ztZFaOwbguKEwqZs_lvuyXsmJgMoUMgk/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/PzwmPDGK59dRxxM",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৩।",
+      "book_name": "প্রাথমিক গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1-9weJt3CeJnHO1zKBJHDAe0sndJwsZqi/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/ztbi7wkazmBWEHT",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "১।",
+      "book_name": "আমার বাংলা বই",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৫ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1_l_RudEdfGF4bjPIAFHmkzkYpKPriFvK/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/YbHlMpBrSFmqATi",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "২।",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৫ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1mYMaa4iG8exP-HjtT_f7Jgss76o3Nd4H/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/c660NMTjxlHiFXp",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৩।",
+      "book_name": "প্রাথমিক গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৫ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/18C-iB1tOSYG5qwBjRpV3NNivFqDvsCec/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/8pE6En3kkEDN7JU",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৪।",
+      "book_name": "প্রাথমিক বিজ্ঞান",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৫ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1ru6RSNpp-F2MHDoIwZzkWQi5-Oq6RtqD/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/PxSeeFSC0LPB0tt",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৫।",
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৫ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1yLV_zwZNPLtj5YD-7UeS0Sa64lv6tm9a/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/cS30cLdpP14Pu5Y",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৬।",
+      "book_name": "ইসলাম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ইসলাম শিক্ষা",
+      "class": "৫ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/15_VyasyRtA8MgLbpLIw1TRp6uhzAzWnJ/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/ytuwd521MFqPrfp",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৭।",
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ধর্ম",
+      "class": "৫ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/122mZvsicBs4HG1bEP1zts0A4QrMf2e23/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/nHitCMjnhCNVXh0",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৮।",
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ধর্ম",
+      "class": "৫ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1IvQ5cxYu5yovmn47O_7X4MxrAfjekA0q/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/eJ1cRhtib2HxdMs",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৯।",
+      "book_name": "খ্রিষ্টধর্ম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ধর্ম",
+      "class": "৫ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/17uQhkiGbzXVd9ing6TNtakHJaaBuwDBk/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/Sl9wOSfXNYJJtq3",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "১।",
+      "book_name": "আমার বাংলা বই",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "১ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "http://drive.google.com/file/d/1XFeh1kDvWoBtYza8jft5cwrPVhEcseD5/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/mwk92EZzEiVcVs7",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "২।",
+      "book_name": "English for Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "১ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "http://drive.google.com/file/d/1fEi4o-cRb-uIuXb0YllOylOLwPKg9003/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/fSMOWCSv3zSH5pd",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "৩।",
+      "book_name": "প্রাথমিক গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "১ম শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "http://drive.google.com/file/d/1sQ9gxdNIKpsBwvbCfOV0Ek6Xmjw90W9B/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/2ve9vfhXZVLtrBg",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/প্রাথমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "সাহিত্য-কণিকা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/14Hg8HRdcjqnhy2raqoAbHL8oHLUbUSwA/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/SgTEovt8NxWqBis",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "আনন্দপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1fm9ocm4MA3n3SFRpX8KM8sNN0-8Wl_ap/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/XFrXFBFGGCbQS1p",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/117pXoJyf_LnJgxOy7R9-HcYMOGHeh2cq/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/0VnlOZJDlBtxAtw",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1N7E-_Dgd1xX5VC4GmJamf4Yo4VEzvTvu/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/xDfgTiamMnHwHYH",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "English Grammar and Composition",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1MG0Kr84imLCw4gfAPKheQfxZo9JuQ611/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/XU46PNeZmN9o4rH",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1UTGLGuQxMMaK_YgErIivbMI_3PcvkRbc/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/FTh3rMfB7Jcd2Y9",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "Mathematics",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "গণিত",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/19-BM0RFDNg67dfiPjdya_ULIJCFe_Itn/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/FIjMg6cxpt4C4jz",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/152cFSzvuZOrWo_BuYhgMav91g8pRpv9I/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/xaGXxogVQv1bD7H",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "Information And Communication Technology",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1Z3f9fIUXTADaCUM0bLZieKH2bqGJw98D/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/PQWSmzwv26jAHyz",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1HIxFLkgo4ZLG-qUz2achu5K_v40T0cfn/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/JhItWQKHSY2F6oF",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "Bangladesh And Global Studies",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বাংলা",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1vokuV3oRerVx-p9GkxKiKH0eRj4aACuF/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/Cgo65egscarQmOu",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "বাংলা সাহিত্য",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1EL_DZGQXh-w2qVVlHKo_BWOXkiPWGF3R/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/thSe29J0d2ivrVD",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "বাংলা সহপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1uNspy7qUYc8I8WffkaEVt9caBGlS_LCG/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/jtTzVkeieqzC4bu",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/14pcG6SDel6AUzrPZk2qzUjJb_9HYt-sg/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/OYM34UsxAnzeGMG",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1Y7ygihk1dAkbWcBbPG9oFU3F_CCZ1gGa/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/48FFVgcnd4fTVkF",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "English Grammar and Composition",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1iVqQ5X3jw3UmnHKclSKkDyD4R2m9dY9J/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/RI8LQEdPKiL47ZT",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1IuuYwHXUpTGHOpumKq-x6Th4h2xf1b9s/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/c4136v5IQ6RV2Ta",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "Mathematics",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "গণিত",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1qMHB4hCVg-5yPtiV5UoWyGf2Q2gpOAqm/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/bEJDZFzRXP9cWDz",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/10DYq8yuMb3tgWgTZ7fXx_KThABOUJR6k/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/niTV3HahMFO0FLv",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "Information And Communication Technology",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1AmD4GLeD72M1J4FSW-TUSAfbSwG9VhBO/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/BvZTIaYQmtlVS01",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "বিজ্ঞান",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/12dYZXPKDogQyp5QJUslpUB8QMJmXxLts/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/RxqJSQAfwcFizCr",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "Science",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1qp8zs7AWt6JxpqSbncEqh0dabyuJz6yS/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/5aQOSD2fGOpwfvP",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "চারুপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1HMLLnPvoFbwdLUYOyuOYKkuTma6oI0gD/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/9GqLTbn1DnLb5Cc",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "আনন্দপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/16L1WW3QTqQfai9aPayV0gyE5igRMiFeL/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/tWLhX0VIKsczDOe",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1AQo5mMLwsMa_ASt0uYANyl7Cb7zaqq6i/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/zRgnlRMYUwjj6ej",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1aX0Py2PLwSgh-NVUsTqfI0bqEplYo7WV/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/gJnI1fP2GIwK35I",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "English Grammar and Composition",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1Tgrw_QZJwpUCKV3LJzcCTZ0Dvhz-bOF0/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/5o4Dhpi9NiRJqxY",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/13iUtxnh9u1Q6rFU0gyvpPGLeCSGCEpc7/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/RQo7jlBpkysPW1A",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "Mathematics",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "গণিত",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1FGMGsUFo3tMWw9sc9ZlpmmEqpqFzH33F/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/k5sgqVENArHXv8Z",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1u2zRiyNz6ekcFMRskixrrCUxCyJQHDkr/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/YgP43KQIgX65eXU",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "Information And Communication Technology",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1livS4uNclZ_0-9jp44pcOEY5tr9iHqbj/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/RsBeRchCk5MBGFU",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1F2v5Pf6br3lu_WChJ1fwiYwyct_Fs6UX/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/ct8ZrdcFdoUPF7k",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "Bangladesh And Global Studies",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বাংলা",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1gab-_SnIZoqaTnXDrd84iZYDByd6Nq8c/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/9afdFU3yU7GRMY0",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "সপ্তবর্ণা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/15IDsWA0wqIThNLuq8n9ijOsRwXUQJftp/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/h04DmBQz5UgEzsD",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "আনন্দপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1CwvHeLDkUGJU8_r6ChsRSYNs2PBXhRCE/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/2hDoTRMdgsNCSau",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1gWHxsoJk2BFQ03RmoPIkd-nn5-wZTvJC/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "http://ডাউনলোড লিংক-২",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1XTG6vE0RSM645eE5-XAKMirCzGUPPllz/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/DcULSwLjINShmyT",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "English Grammar and Composition",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/15Odrctw-rj3DAR94NKOZEq2jilXYvXw3/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/s6LRmVoSI8tple0",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1iKHx1wxYi7I6REjR-5j8fW1uVI2xT5zH/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/DXlEkIA5j2nPtIT",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "Mathematics",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "গণিত",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/17nGqi6XncqZgoZQaEaa_WZyjJoO9emZj/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/PpMV14fCizQNDtI",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1LCG5mQF2hEwCMKXeZDsPCKjbSdaxzlql/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/KvVzi21P1sWQXnW",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "Information And Communication Technology",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1EZM-Arpp7eW8Ke-4Ds8ETkbt99KZS95r/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/8WnqkydTQe2Kwfy",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1Rjkz4Hjp04VbxMnVZy1Eht1F5O62pmvR/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/BzMy8jsUNhFRP88",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "Bangladesh And Global Studies",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বাংলা",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৫",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1V8VQPcreM7j1Mqc4doRZxaU420HTr110/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/KPNUzIRSRBlb0au",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৫/মাধ্যমিক"
+    },
+    {
+      "serial": "১.",
+      "book_name": "আমার বই",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1NBVcKjToPV0rnJbjFejzGxxtx5TJL6f-/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/4LtrLrfJMZ41f5z",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "১.",
+      "book_name": "ডাউনলোড লিংক-১ ডাউনলোড লিংক-২",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1HlvBA_oD4ZkyDcFFOChiI64mBdfjku4_/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/XqtRHR6U1iRTv06",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "২.",
+      "book_name": "এসো লিখতে শিখি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1D3-ueZKInOfN9LCJi-OgZoMxpk560HaS/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/4YQuBpM6dt9FL3c",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "২.",
+      "book_name": "ডাউনলোড লিংক-১ ডাউনলোড লিংক-২",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1YsmWuieTrLym_PZvyUpOwjyD5ADgPa9S/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/dsg6BZVcyHzvR0t",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "১ম শ্রেণি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "ডাউনলোড লিংক-১ ডাউনলোড লিংক-২",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/16vUqjD2JK2n7fQ6YBwy5mLQ7rUxPhZ2a/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/8vDNr64BT4lN33W",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "১ম শ্রেণি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "ডাউনলোড লিংক-১ ডাউনলোড লিংক-২",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1yzxdi_17KWnCpr3T6cEYdLwwbFy0EtyA/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/YdKuPEh2GfiQFn6",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "২য় শ্রেণি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "ডাউনলোড লিংক-১ ডাউনলোড লিংক-২",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1dvw87Bco91MMDVednUDAd-Nb2ZbrNNrN/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/KTwamlUX6TkSRKn",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "২য় শ্রেণি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "ডাউনলোড লিংক-১ ডাউনলোড লিংক-২",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1LN330DZ4B9iy3sIBCfm67NgmO60HFgWa/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/jUuaD29Ptco1yT6",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "৩য় শ্রেণি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "ডাউনলোড লিংক-১ ডাউনলোড লিংক-২",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/14I6K-yMTSyYK4EUtl2nQXoZXjuz9nRyz/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/ep4znXyMT4YRS3V",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "১।",
+      "book_name": "আমার বাংলা বই",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1Je1KylPoJBiYt-lW5qqaH8BszIk0VJVz/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/09v2RIHbjCIHV8g",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "২।",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1gy7q4njDpOKGULXzGQVvhq2ZGpZMOfif/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/uBJQBKhwhLdCGSp",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৩।",
+      "book_name": "প্রাথমিক গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1sd7ebdMkuU6Wv0BUgccqYV4UxpwUmTyC/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/c97udcl4dlxev8s",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৪।",
+      "book_name": "প্রাথমিক বিজ্ঞান",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1jn-X5lOgECnoypp29eYtYAw_DHZ9qhm6/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/7eXICQ394KDIGr9",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৫।",
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/15XHREkEQf7PioxmaVo7fW-EWLRKYrDEw/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/mjAT4z4uvNEVIlV",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৬।",
+      "book_name": "ইসলাম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ইসলাম শিক্ষা",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1KSegBPjHNygGuJJE77byNjBAv-HNvz9y/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/PBXZ0gAlYL9JBGN",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৭।",
+      "book_name": "হিন্দুধর্ম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ধর্ম",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1MnUeQUpgNz83fslF3lCT-ttuWaPkrRs0/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/1IZRkMQBIhWbJ9o",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৮।",
+      "book_name": "বৌদ্ধধর্ম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ধর্ম",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1hStfhnRzkyVi-LIJ65Z2XNn-Ul-2wfC2/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/KU1IupjxdIIVIYf",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "৯।",
+      "book_name": "খ্রিষ্টধর্ম শিক্ষা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "ধর্ম",
+      "class": "অন্যান্য শ্রেণি",
+      "education_level": "প্রাথমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1g5celNzNGe0pLzfT28PWxCIEg1pmOg_Y/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/s5iZa5K3QvSzMl4",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/প্রাথমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "বাংলা সাহিত্য",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1yjdxHcyFeQLBKLD8tykuqGABh_CaCXIn/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/bspYlB4Rwd4VFUM",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "বাংলা সহপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1NqVcm3tt4olBGRPqi_tVksF__yknMNL8/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/DJ6TEuMohVdTuht",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1yqoG73PYj6F8xlB-WTNfGSUk9Yf1z_tR/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/z7CNJUJAw9UuPv5",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/119HUFSrDZ9GrG_cLGAgVVzM4XMPkA_1g/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/CobRtJNoc1ISrGv",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "English Grammar and Composition",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1bcIWidHEPsNpwx4Q9EXHdCbFA6HBQWbr/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/6cNd5kYL7lbK62r",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1-Dj-9Y1Q79AWN7fViMR8fj4jvzDVNYYl/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/HwrCrAtDhb9K484",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "Mathematics",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "গণিত",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1QkznFQZy71k2xylde15XouVNxa-hVgKc/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/xRY6S1rHN20EoMR",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1jgAhqSmR6zXZzcSr0fpkWbcw3_07pPGe/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/PjriLZ5LTTdrkDc",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "Information And Communication Technology",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1qMc0X8jBaazNGRdENW_4RQrNFsiO3NRt/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/UF5VFOfPGxsIYFg",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "বিজ্ঞান",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1AYg7uY_WjVYJmoskhb0-D58iFPvgwmpJ/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/NupFtnqI21e6svU",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "Science",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1TCyuezoQIAUCGYLUzDKJIb448kg0_7cQ/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/N3ZlCv0rSQ0LqmF",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৯",
+      "book_name": "পদার্থবিজ্ঞান",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/13P5E08HcNbpALj8-aC-RUCy0d3iwodet/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/KOdI1T0gyhPiFRz",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৯",
+      "book_name": "Physics",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৯ম-১০ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1PCiSEy9n4euVypxciw2-HVyaJvuF4H9t/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "চারুপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1jbIqeDMYPZMNIi0X54CLZ5DvJE_UChY9/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/WZ2FQlnIXv7NfZW",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "আনন্দপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1tflfTwzd2s8maa45Vw7xjpShlQxQ3S0O/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/Jm5nOcbFhMspLrB",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1rQ3XbgX7azu9CWBvyWNtI8uB9PDa-DYX/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/72udd7yiI8ZE32J",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1MsLUFdmZoZ8qKSVH74rpXm-wQCHEESiB/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/00PDZJDuOCv9ttL",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "English Grammar and Composition",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1WhdraA55PFWAigg2UcN9_LpQcy1lEMfe/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/oqujd6cAV44N5xM",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1oqu8SmpC5WmAOy4kT4ETViYJCq02Oojm/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/8DLCm943XS8vu3L",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "Mathematics",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "গণিত",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1fj63KVxmVoaAOQ8IpbOCp8nJ2ewwkwi3/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/cki7TWa2jYikkJq",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1m95qutwK8KqlcvmJiAoiT2Bi1LYF3um-/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/u4g6PEmgrVjWqys",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "Information And Communication Technology",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1nbu5OQxUUXQ3aqmrnu8bIxvH7soILyRz/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/PeCF1b57dEbg7E4",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1MwPARV0cDBIPEvIcyBLyI_ywLfrqOHNI/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/lCmgQketjBzgGWD",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "Bangladesh And Global Studies",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বাংলা",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1HRumSBLdYXxOYQTnoaFe5okVUCz1Nq8o/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/ezzWktuokjxTEeO",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৯",
+      "book_name": "বিজ্ঞান",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/10DVauOWIN6gPmKKjd-rxRPVLLyolBcJD/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/5JjvBBFtHh0inIe",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৯",
+      "book_name": "Science",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৬ষ্ঠ শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1PNOAPkCFrhcmUrPe-5btT7W1fVzJnghv/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "সপ্তবর্ণা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1ckEB1y0SGO10-pfmplYFbxEUlOAWZ6tx/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/6OfwhgP4Vhr6sox",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "আনন্দপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1Lny99FCqRPj0B1OkNE6TmuBVmlyIdht0/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/VivwIJDEF5Ya80t",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1sjIDgfX268s2YwuFzVN9xD1-59V8el_L/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/zP5FdWFMzzgLb7A",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1Wtqc-MSvKsZoXX_oag7tTZpQ_VB8z8DG/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/gL2i3wNhvieyZbQ",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "English Grammar and Composition",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1ZGVzHw8KHYDxWTU_2m5JEDrhhW_bkyNF/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/li2wmtWuUyc0qRP",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1kMlc6PdjKBo7zNw_8wFg7-zMpTe__JTQ/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/oMoHb1etKy5MuwX",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "Mathematics",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "গণিত",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1ApxmGjYUBOiXprHvEPaPnKMVIDTgnPWy/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/uO0Rvg3Aa6sHPRh",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1vCUjD8YODj5iaMFu3j-Br1xbbukUhfzj/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/1d7G3kmriLA53JV",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "Information And Communication Technology",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1apkdtwiTShAEUw8uyPQgXMNsnSZLSH-F/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/Vf6TexpjPZFm3PQ",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1-Bh4zciohlzPkTm_TZ_AMUgOCipWCIZp/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/AsEhiVkv4WoDdZO",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "Bangladesh And Global Studies",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বাংলা",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1dEMvAZFn1Oq3sB9noqRfJNrYcbis8okK/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/WrsrSQ5PaeAE1v4",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৯",
+      "book_name": "বিজ্ঞান",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1qBff8MLDQdilreUecN2cElXRoJnlQMW_/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/wwDdbxHoVkBRpPA",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৯",
+      "book_name": "Science",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৭ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1uCJ-MtviXJSAg3q6IZC8hPnhueT7gua_/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "১",
+      "book_name": "সাহিত্য-কণিকা",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1CRDDFTH32XZoy78SrFQ3m8wUujbLeuFY/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/YBnK8nxVuF8YHaD",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "২",
+      "book_name": "আনন্দপাঠ",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1g77qC2lEOdnFqMYxM8DpyYzhS3m0wgLK/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/lsz7WPFLAZv7gmo",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৩",
+      "book_name": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1O0aS5cJsRDqc47nIWY2uVLqldAEZGtk-/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/c0BButuHGZRxugA",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৪",
+      "book_name": "English For Today",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1m7TlILofUr64YC61XBW96rhW0fvCI_dv/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/gnSVZ8LoHftPSdo",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৫",
+      "book_name": "English Grammar and Composition",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1OfJd_F1uVMqE1KDaQHKhN3mQ-LcPm7rt/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/D8FEJJlaJYtzSr8",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "গণিত",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "গণিত",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/12ygatNBK0ilJdccpnpuoT1N2G4pcaCya/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/h4caIbfzbyxWmNc",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৬",
+      "book_name": "Mathematics",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "গণিত",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1_1n5BHhXtccoSvh030AijjVwrJe9an6Z/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/ZfnMbBttCHDze03",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1Iiil02LWRp7cZDjOyRF3Lsw3ECkuMWfn/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/ipadnjIh0hQ7xMR",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৭",
+      "book_name": "Information And Communication Technology",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "অন্যান্য বিষয়",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1oEuI_Jz62F3PrBn3M1doKwG2Y_qvf7d5/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/vCt3YubmtL750t7",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বাংলা",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1aY3sFRDEQsAGUlUg3SvKgh5TI3lKJ1RB/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/yc5DKo4i94aicwV",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৮",
+      "book_name": "Bangladesh And Global Studies",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বাংলা",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1iS0uz1Ug1-J8NuJTnhXefVhGXNinltfc/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/s2AOEhjrezxgELb",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৯",
+      "book_name": "বিজ্ঞান",
+      "language": "বাংলা",
+      "version": "বাংলা ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/13Ms7Jse6GAssepHFewohlp_ioc-UuyjH/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        },
+        {
+          "url": "https://drive.egovcloud.gov.bd/index.php/s/0bOss47EGDKxsPp",
+          "title": "ডাউনলোড লিংক-২",
+          "text": "ডাউনলোড লিংক-২",
+          "type": "Other"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    },
+    {
+      "serial": "৯",
+      "book_name": "Science",
+      "language": "ইংরেজি",
+      "version": "ইংরেজি ভার্সন",
+      "subject": "বিজ্ঞান",
+      "class": "৮ম শ্রেণি",
+      "education_level": "মাধ্যমিক",
+      "year": "২০২৬",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/1Nr_XVz0fHd9V6AwqStfVwjT6rgMdCNAM/view?usp=drive_link",
+          "title": "ডাউনলোড লিংক-১",
+          "text": "ডাউনলোড লিংক-১",
+          "type": "Google Drive"
+        }
+      ],
+      "file_source": "c:\\Users\\GourobSaha\\OneDrive - Gourob Saha\\Downloads\\Book-link\\২০২৬/মাধ্যমিক"
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+html{
+--color-primary-bg:#00A63E;
+--color-primary-light:#2DAB5B;
+--color-primary-dark:#008532;
+--color-primary-text:#ffffff;
+--color-secondary-bg:#DC2626;
+--color-secondary-light:#FEF2F2;
+--color-secondary-dark:#ED3131;
+--color-secondary-text:#ffffff;
+--color-normal-bg:#ffffff;
+--color-normal-light:#f0f0f0;
+--color-normal-dark:#e0e0e0;
+--color-normal-text:#000000;
+--color-dark-bg:#000000;
+--color-dark-light:#202020;
+--color-dark-dark:#404040;
+--color-dark-text:#ffffff;
+--color-success-bg:#28a745;
+--color-success-text:#ffffff;
+--color-danger-bg:#dc3545;
+--color-danger-text:#dc3545;
+--color-warning-bg:#FF6600;
+--color-warning-text:#FF6600;
+--color-info-bg:#17a2b8;
+--color-info-text:#ffffff;
+--color-link-normal:#1568b2;
+--color-link-dark:#1b81dd;
+--color-border-normal:#d0d0d0;
+--color-border-dark:#909090;
+--background-primary-image:url(/site-assets/images/bg.png);
+--background-primary-repeat:repeat;
+--background-primary-position:center center;
+--background-primary-color:#ffffff;
+--background-secondary-image:url(/site-assets/images/bg.png);
+--background-secondary-repeat:repeat;
+--background-secondary-position:center center;
+--background-secondary-color:#ffffff;
+--container-small:600px;
+--container-medium:900px;
+--container-large:1200px;
+--spacing-small:8px;
+--spacing-medium:16px;
+--spacing-large:24px;
+--radius-small:4px;
+--radius-medium:8px;
+--radius-large:16px;
+--shadow-small:0px 2px 4px rgba(0, 0, 0, 0.1);
+--shadow-medium:0px 4px 8px rgba(0, 0, 0, 0.1);
+--shadow-large:0px 8px 16px rgba(0, 0, 0, 0.1);
+--text-small:0.75rem;
+--text-medium:0.9rem;
+--text-large:1.25rem;
+--font-heading-en:NotoSansBengali-Regular, sans-serif;
+--font-heading-bn:NotoSansBengali-Regular, sans-serif;
+--font-primary-en:NotoSansBengali-Regular, sans-serif;
+--font-primary-bn:NotoSansBengali-Regular, sans-serif;
+--font-secondary-en:NotoSansBengali-Regular, sans-serif;
+--font-secondary-bn:NotoSansBengali-Regular, sans-serif;
+--typography-h1-font-family:var(--font-heading);
+--typography-h1-font-weight:700;
+--typography-h1-font-size:32px;
+--typography-h1-line-height:1.2;
+--typography-h2-font-family:var(--font-heading);
+--typography-h2-font-weight:700;
+--typography-h2-font-size:28px;
+--typography-h2-line-height:1.2;
+--typography-h3-font-family:var(--font-heading);
+--typography-h3-font-weight:600;
+--typography-h3-font-size:24px;
+--typography-h3-line-height:1.2;
+--typography-h4-font-family:var(--font-heading);
+--typography-h4-font-weight:500;
+--typography-h4-font-size:20px;
+--typography-h4-line-height:1.2;
+--typography-h5-font-family:var(--font-heading);
+--typography-h5-font-weight:500;
+--typography-h5-font-size:18px;
+--typography-h5-line-height:1.2;
+--typography-h6-font-family:var(--font-heading);
+--typography-h6-font-weight:400;
+--typography-h6-font-size:16px;
+--typography-h6-line-height:1.2;
+--typography-body-font-family:var(--font-primary);
+--typography-body-font-weight:400;
+--typography-body-font-size:14px;
+--typography-body-line-height:1.2;
+--typography-p-font-family:var(--font-primary);
+--typography-p-font-weight:400;
+--typography-p-font-size:14px;
+--typography-p-line-height:1.2;
+--typography-a-font-family:var(--font-secondary);
+--typography-a-font-weight:400;
+--typography-a-font-size:14px;
+--typography-a-line-height:1.2;
+}
+html,html[lang="en"]{
+--font-heading:NotoSansBengali-Regular, sans-serif;
+--font-primary:NotoSansBengali-Regular, sans-serif;
+--font-secondary:NotoSansBengali-Regular, sans-serif;
+}
+html[lang="bn"]{
+--font-heading:NotoSansBengali-Regular, sans-serif;
+--font-primary:NotoSansBengali-Regular, sans-serif;
+--font-secondary:NotoSansBengali-Regular, sans-serif;
+}
+
+/* ===== CONTAINER ===== */
+body{overflow-x:hidden;}
+.col{flex:0 0 auto;}
+.container-row,.widget-container-row{
+  --col-gutter-x: var(--spacing-medium);
+  --col-gutter-y:0;
+  /*
+  --col-gutter-y: var(--spacing-medium);
+  */
+  display:flex;
+  flex-wrap:wrap;
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-right:calc(-.5 * var(--col-gutter-x));
+  margin-left:calc(-.5 * var(--col-gutter-x))
+  /*
+  width:calc(100% + var(--col-gutter-x));
+  margin-top:calc(-1 * var(--col-gutter-y));
+  margin-left:calc(-1 * var(--col-gutter-x));
+  */
+}
+.container-row>*,.widget-container-row>*{
+  box-sizing:border-box;
+  flex-shrink:0;
+  width:100%;
+  max-width:100%;
+  padding-right:calc(var(--col-gutter-x) * .5);
+  padding-left:calc(var(--col-gutter-x) * .5);
+  margin-top:var(--col-gutter-y)
+  /*
+  width:calc(100% - var(--col-gutter-x));
+  max-width:calc(100% - var(--col-gutter-x));
+  margin-top:var(--col-gutter-y);
+  margin-left:var(--col-gutter-x);
+  */
+}
+
+@media (min-width:600px) {
+  .container-col-1{width:8.3333%;}
+  .container-col-2{width:16.666%;}
+  .container-col-3{width:25%;}
+  .container-col-4{width:33.333%;}
+  .container-col-5{width:41.666%;}
+  .container-col-6{width:50%;}
+  .container-col-7{width:58.333%;}
+  .container-col-8{width:66.666%;}
+  .container-col-9{width:75%;}
+  .container-col-10{width:83.333%;}
+  .container-col-11{width:91.666%;}
+  .container-col-12{width:100%;}
+}
+
+  </style>
+  <!-- analytics script -->
+  <!-- Matomo Id n/a -->
+  <script defer data-domain="nctb.gov.bd" src="https://analytics-plausible.portal.gov.bd/js/script.file-downloads.hash.outbound-links.pageview-props.tagged-events.js"></script>
+  <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+  <link rel="stylesheet" href="/site-assets/css/phosphor.css">
+  <link rel="stylesheet" href="/site-assets/css/phosphor-fill.css">
+  <link rel="stylesheet" href="/site-assets/css/index.css">
+  <link rel="stylesheet" href="/widget-assets/css/HeaderWidget">
+  <link rel="stylesheet" href="/widget-assets/css/OfficeFindThreeWidget">
+  <link rel="stylesheet" href="/widget-assets/css/GlobalSearchWidget">
+  <link rel="stylesheet" href="/widget-assets/css/LanguageSwitcherWidget">
+  <link rel="stylesheet" href="/widget-assets/css/BannerSliderImageWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusExpandableWidget">
+  <link rel="stylesheet" href="/widget-assets/css/MenusWidget">
+  <link rel="stylesheet" href="/widget-assets/css/SocialContentShareWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EParticipationOpinionPopupWidget">
+  <link rel="stylesheet" href="/widget-assets/css/EParticipationOpinionFormWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ContentViewerWidget">
+  <link rel="stylesheet" href="/widget-assets/css/PrintWidget">
+  <link rel="stylesheet" href="/widget-assets/css/AccessibilityWidget">
+  <link rel="stylesheet" href="/widget-assets/css/GoToTopWidget">
+  <link rel="stylesheet" href="/widget-assets/css/TitleWithImageContentWidget">
+  <link rel="stylesheet" href="/widget-assets/css/ContentDetailsWidget">
+  <link rel="stylesheet" href="/widget-assets/css/FooterWidget">
+  <style>/* END */</style>
+  <link rel="stylesheet" href="/assets/css/index.css">
+
+  <!-- RENDERING 1772364458241 -->
+  <title>২০২৬ শিক্ষাবর্ষের দাখিল স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক | পাতা | জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি)</title>
+  <meta name="description" content=""/>
+  <meta name="keywords" content="২০২৬ শিক্ষাবর্ষের দাখিল স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক, পাতা, জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি), http://nctb.gov.bd, Bangladesh, Bangladesh National Portal, Government of the People's Republic of Bangladesh, গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <link rel="canonical" href="http://nctb.gov.bd/pages/static-pages/695b992bc4774958d7b704fd"/>
+  <link rel="icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/x-icon" href="/site-assets/images/favicon.ico"/>
+  <link rel="shortcut icon" type="image/png" href="/site-assets/images/favicon.png"/>
+  <link rel="shortcut icon" type="image/png" href="http://nctb.gov.bd/site-assets/images/favicon.png"/>
+  <meta name="author" content="জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি)"/>
+  <meta property="fb:app_id" content="..............."/>
+  <meta property="og:url" content="http://nctb.gov.bd/pages/static-pages/695b992bc4774958d7b704fd"/>
+  <meta property="og:site_name" content="জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি)"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:article:section" content="২০২৬ শিক্ষাবর্ষের দাখিল স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক | পাতা | জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি)"/>
+  <meta property="og:article:author" content="জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি)"/>
+  <meta property="og:article:tag" content="জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি)"/>
+  <meta property="og:article:tag" content="Bangladesh"/>
+  <meta property="og:article:tag" content="Bangladesh National Portal"/>
+  <meta property="og:article:tag" content="Government of the People's Republic of Bangladesh"/>
+  <meta property="og:article:tag" content="গণপ্রজাতন্ত্রী বাংলাদেশ সরকার"/>
+  <meta property="og:title" content="২০২৬ শিক্ষাবর্ষের দাখিল স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক | পাতা | জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি)"/>
+  <meta property="og:description" content=""/>
+  <meta property="og:image:type" content="image/jpeg"/>
+  <meta property="og:image:width" content="687"/>
+  <meta property="og:image:height" content="570"/>
+  <meta property="og:image:secure_url" content="http://nctb.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta property="og:image" content="http://nctb.gov.bd/site-assets/images/portal_banner.jpg"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<div class="container">
+  <div class="header"><div data-section_type="header" class="droppable">
+        <section data-widget_type="widget" data-widget_name="HeaderWidget" class="widget header-widget-section"> <div class="header-left-section"> <a class="header-title" href="http://www.bangladesh.gov.bd" title="বাংলাদেশ জাতীয় তথ্য বাতায়ন"> বাংলাদেশ জাতীয় তথ্য বাতায়ন </a> </div> <div class="header-left-section"> <div class="widget header-dropdown custom-items-center top-menu office-findthree-widget office-findv2-widget" data-widget-id="i8613708858" data-preselect='{&#34;officeTypeId&#34;:&#34;6915c8c02d68425160fc40f1&#34;,&#34;officeLevelId&#34;:&#34;626a41e552093d4768e64b10&#34;,&#34;divisionId&#34;:&#34;69a41f27493bc82a43942e3d&#34;,&#34;districtId&#34;:&#34;69a41f27493bc82a43942e3e&#34;,&#34;upazilaId&#34;:&#34;69a41f27493bc82a43942e3f&#34;,&#34;unionId&#34;:&#34;69a41f27493bc82a43942e40&#34;,&#34;officeId&#34;:&#34;687f4277a79706ab75fb12ca&#34;}'> <div class="office-group"> <select name="officeType" id="officeType_i8613708858" data-lang="bn" title="অধিদপ্তর / বিভাগ / এজেন্সী / সংস্থা" onchange="this.title = this.options[this.selectedIndex].text; window.handleOfficeTypeChangeV3('i8613708858', this, 'i889699745', 'i9679584782')" > <option value="">অফিসের ধরণ নির্বাচন করুন</option> <option value="6915c8c02d68425160fc40ec" title="স্বায়ত্তশাসিত" data-allow-levels='{&#34;head_office&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b10&#34;,&#34;sort_order&#34;:2},&#34;regional_office&#34;:{&#34;id&#34;:&#34;68ef33e2b74cbf429ba5968c&#34;,&#34;sort_order&#34;:3},&#34;divisional_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b11&#34;,&#34;sort_order&#34;:4},&#34;district_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b13&#34;,&#34;sort_order&#34;:5},&#34;city_corporation_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b24&#34;,&#34;sort_order&#34;:6},&#34;upazila_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b14&#34;,&#34;sort_order&#34;:7},&#34;pourashava_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b34&#34;,&#34;sort_order&#34;:8}}' data-geo-depth="0" > স্বায়ত্তশাসিত </option> <option value="626a41e552093d4768e64b12" title="মন্ত্রণালয়" data-allow-levels='{&#34;ministry_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b09&#34;,&#34;sort_order&#34;:1}}' data-geo-depth="0" > মন্ত্রণালয় </option> <option value="687df048256c87dc78f1a064" title="মন্ত্রণালয় বিভাগ" data-allow-levels='{&#34;ministry_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b09&#34;,&#34;sort_order&#34;:1}}' data-geo-depth="0" > মন্ত্রণালয় বিভাগ </option> <option value="6915c8c02d68425160fc40f1" title="অধিদপ্তর / বিভাগ / এজেন্সী / সংস্থা" data-allow-levels='{&#34;head_office&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b10&#34;,&#34;sort_order&#34;:2}}' data-geo-depth="0" selected> অধিদপ্তর / বিভাগ / এজেন্সী / সংস্থা </option> <option value="68ef52c26939cf029f3bb06b" title="ব্যাংক / বীমা / আর্থিক প্রতিষ্ঠান" data-allow-levels='{&#34;head_office&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b10&#34;,&#34;sort_order&#34;:2},&#34;regional_office&#34;:{&#34;id&#34;:&#34;68ef33e2b74cbf429ba5968c&#34;,&#34;sort_order&#34;:3},&#34;divisional_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b11&#34;,&#34;sort_order&#34;:4},&#34;district_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b13&#34;,&#34;sort_order&#34;:5},&#34;city_corporation_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b24&#34;,&#34;sort_order&#34;:6},&#34;upazila_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b14&#34;,&#34;sort_order&#34;:7},&#34;pourashava_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b34&#34;,&#34;sort_order&#34;:8}}' data-geo-depth="0" > ব্যাংক / বীমা / আর্থিক প্রতিষ্ঠান </option> <option value="6915c8c02d68425160fc40f0" title="শিক্ষা প্রতিষ্ঠান" data-allow-levels='{&#34;school_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b17&#34;,&#34;sort_order&#34;:10},&#34;college&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b18&#34;,&#34;sort_order&#34;:11},&#34;university&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b19&#34;,&#34;sort_order&#34;:12},&#34;madrasha&#34;:{&#34;id&#34;:&#34;68ef389234cf7ce9b5508e1c&#34;,&#34;sort_order&#34;:13},&#34;nursing&#34;:{&#34;id&#34;:&#34;68ef38c7d4a2b15e5259b6a7&#34;,&#34;sort_order&#34;:14},&#34;ploytech&#34;:{&#34;id&#34;:&#34;68ef391c0e99a31ecfa0a2ed&#34;,&#34;sort_order&#34;:15}}' data-geo-depth="0" > শিক্ষা প্রতিষ্ঠান </option> <option value="687df048256c87dc78f1a066" title="রেজাল্ট" data-allow-levels='{&#34;head_office&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b10&#34;,&#34;sort_order&#34;:2},&#34;regional_office&#34;:{&#34;id&#34;:&#34;68ef33e2b74cbf429ba5968c&#34;,&#34;sort_order&#34;:3},&#34;divisional_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b11&#34;,&#34;sort_order&#34;:4},&#34;district_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b13&#34;,&#34;sort_order&#34;:5},&#34;city_corporation_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b24&#34;,&#34;sort_order&#34;:6},&#34;upazila_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b14&#34;,&#34;sort_order&#34;:7},&#34;pourashava_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b34&#34;,&#34;sort_order&#34;:8}}' data-geo-depth="0" > রেজাল্ট </option> <option value="687df048256c87dc78f1a067" title="প্রকল্প" data-allow-levels='{&#34;head_office&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b10&#34;,&#34;sort_order&#34;:2},&#34;regional_office&#34;:{&#34;id&#34;:&#34;68ef33e2b74cbf429ba5968c&#34;,&#34;sort_order&#34;:3},&#34;divisional_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b11&#34;,&#34;sort_order&#34;:4},&#34;district_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b13&#34;,&#34;sort_order&#34;:5},&#34;city_corporation_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b24&#34;,&#34;sort_order&#34;:6},&#34;upazila_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b14&#34;,&#34;sort_order&#34;:7},&#34;pourashava_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b34&#34;,&#34;sort_order&#34;:8}}' data-geo-depth="0" > প্রকল্প </option> <option value="687df048256c87dc78f1a069" title="প্রশিক্ষণ" data-allow-levels='{&#34;head_office&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b10&#34;,&#34;sort_order&#34;:2},&#34;regional_office&#34;:{&#34;id&#34;:&#34;68ef33e2b74cbf429ba5968c&#34;,&#34;sort_order&#34;:3},&#34;divisional_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b11&#34;,&#34;sort_order&#34;:4},&#34;district_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b13&#34;,&#34;sort_order&#34;:5},&#34;city_corporation_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b24&#34;,&#34;sort_order&#34;:6},&#34;upazila_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b14&#34;,&#34;sort_order&#34;:7},&#34;pourashava_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b34&#34;,&#34;sort_order&#34;:8}}' data-geo-depth="0" > প্রশিক্ষণ </option> <option value="687df048256c87dc78f1a068" title="সরকারি মাঠ পর্যায়ের অফিস" data-allow-levels='{&#34;regional_office&#34;:{&#34;id&#34;:&#34;68ef33e2b74cbf429ba5968c&#34;,&#34;sort_order&#34;:3},&#34;divisional_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b11&#34;,&#34;sort_order&#34;:4},&#34;district_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b13&#34;,&#34;sort_order&#34;:5},&#34;city_corporation_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b24&#34;,&#34;sort_order&#34;:6},&#34;upazila_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b14&#34;,&#34;sort_order&#34;:7},&#34;pourashava_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b34&#34;,&#34;sort_order&#34;:8},&#34;union_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b15&#34;,&#34;sort_order&#34;:9}}' data-geo-depth="0" > সরকারি মাঠ পর্যায়ের অফিস </option> <option value="68ef63ed4aea2e96873533f9" title="বিদেশী দূতাবাস/মিশন" data-allow-levels='{&#34;embassy&#34;:{&#34;id&#34;:&#34;68ef394bec5fb394776a34fd&#34;,&#34;sort_order&#34;:16},&#34;high_commission&#34;:{&#34;id&#34;:&#34;68ef396f6c37f3c4fc8f72fd&#34;,&#34;sort_order&#34;:17},&#34;permanent_mission&#34;:{&#34;id&#34;:&#34;68ef39aa946f997b55bbdfd3&#34;,&#34;sort_order&#34;:18},&#34;consulate_general&#34;:{&#34;id&#34;:&#34;68ef39aa946f997b55bbdfd3&#34;,&#34;sort_order&#34;:19},&#34;consulate&#34;:{&#34;id&#34;:&#34;68ef3aead613d2f8d33344e7&#34;,&#34;sort_order&#34;:20},&#34;legation&#34;:{&#34;id&#34;:&#34;68ef3b2942c4aed96ee13c0f&#34;,&#34;sort_order&#34;:21},&#34;honorary_consul&#34;:{&#34;id&#34;:&#34;68ef3b2942c4aed96ee13c0f&#34;,&#34;sort_order&#34;:22}}' data-geo-depth="0" > বিদেশী দূতাবাস/মিশন </option> <option value="6915c8c02d68425160fc40ed" title="বিভাগীয় পোর্টাল" data-allow-levels='{&#34;divisional_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b11&#34;,&#34;sort_order&#34;:4}}' data-geo-depth="1" > বিভাগীয় পোর্টাল </option> <option value="6915c8c02d68425160fc40ef" title="জেলা পোর্টাল" data-allow-levels='{&#34;district_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b13&#34;,&#34;sort_order&#34;:5}}' data-geo-depth="2" > জেলা পোর্টাল </option> <option value="68ef64f9d5ac0d4ed289703f" title="জেলা পরিষদ পোর্টাল" data-allow-levels='{&#34;district_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b13&#34;,&#34;sort_order&#34;:5}}' data-geo-depth="2" > জেলা পরিষদ পোর্টাল </option> <option value="6680e6f177db1f8cd71d07d2" title="সিটি কর্পোরেশন পোর্টাল" data-allow-levels='{&#34;city_corporation_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b24&#34;,&#34;sort_order&#34;:6}}' data-geo-depth="3" > সিটি কর্পোরেশন পোর্টাল </option> <option value="626a41e552093d4768e64b16" title="উপজেলা পোর্টাল" data-allow-levels='{&#34;upazila_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b14&#34;,&#34;sort_order&#34;:7}}' data-geo-depth="3" > উপজেলা পোর্টাল </option> <option value="626a41e552093d4768e64b20" title="পৌরসভা পোর্টাল" data-allow-levels='{&#34;pourashava_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b34&#34;,&#34;sort_order&#34;:8}}' data-geo-depth="3" > পৌরসভা পোর্টাল </option> <option value="6915c8c02d68425160fc40ee" title="ইউনিয়ন পোর্টাল" data-allow-levels='{&#34;union_level&#34;:{&#34;id&#34;:&#34;626a41e552093d4768e64b15&#34;,&#34;sort_order&#34;:9}}' data-geo-depth="4" > ইউনিয়ন পোর্টাল </option> </select> <div id="i889699745" class='dynamic-dropdowns'></div> <button id="i9679584782" onclick="window.handleGoClickV3('i889699745')" disabled>যান</button> </div> </div> </div> <div class="global-searchbar custom-items-center "> <div class='widget global-search-widget'> <input class="input-search" id="5916590050" name="key" placeholder="এখানে খুঁজুন..." onkeypress="window.handleSearchEnter('5916590050', arguments[0])"/> <button type="button" class="btn-search" onclick="window.handleSearchClick('5916590050')"> অনুসন্ধান </button> </div> <div class='widget language-switcher-widget'> <input type="hidden" name="lang" id="5094284741" value="bn" /> <button type="button" id="8243341831" data-type="bn" class="btn-lang-change" onclick="window.toggleLanguage('8243341831', '5094284741')"> English </button> </div> </div> </section> 
+         <div data-widget_type="widget" data-widget_name="BannerSliderImageWidget" class="widget banner-slider-image-widget"> <div class="home-carousel"> <div class="slider-overlay widget-container-row"> <div class="slider-left container-col-4"> <a href="/"> <img class="office-logo" src="/site-assets/images/logo.png" alt="Office Logo"> </a> <div class="office-left-section"> <h1><a style="text-decoration: none" href="/" class="office-title"> জাতীয় শিক্ষাক্রম ও পাঠ্যপুস্তক বোর্ড (এনসিটিবি) </a></h1> <!--<p class="office-subtitle">গণপ্রজাতন্ত্রী বাংলাদেশ সরকার</p>--> <p class="office-subtitle">গণপ্রজাতন্ত্রী বাংলাদেশ সরকার</p> </div> </div> <!-- <div class="container-col-4">--> <!-- <p class="office-caption">--> <!-- </p>--> <!-- </div>--> <div class="slider-controls container-col-4"> <button class="nav-btn slider-previous"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.70508 11.7868L1.79976 6.88151L6.70508 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> <button class="nav-btn slider-play"> <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6445 20.8813C13.2967 20.8813 15.8402 19.8278 17.7156 17.9524C19.591 16.0771 20.6445 13.5335 20.6445 10.8813C20.6445 8.22918 19.591 5.68564 17.7156 3.81028C15.8402 1.93492 13.2967 0.881348 10.6445 0.881348C7.99237 0.881348 5.44883 1.93492 3.57346 3.81028C1.6981 5.68564 0.644531 8.22918 0.644531 10.8813C0.644531 13.5335 1.6981 16.0771 3.57346 17.9524C5.44883 19.8278 7.99237 20.8813 10.6445 20.8813ZM10.0883 7.34135C9.90003 7.21575 9.68121 7.14361 9.45518 7.13263C9.22914 7.12165 9.00436 7.17224 8.80482 7.27901C8.60529 7.38577 8.43848 7.5447 8.32219 7.73884C8.2059 7.93298 8.1445 8.15504 8.14453 8.38135V13.3813C8.1445 13.6077 8.2059 13.8297 8.32219 14.0239C8.43848 14.218 8.60529 14.3769 8.80482 14.4837C9.00436 14.5905 9.22914 14.641 9.45518 14.6301C9.68121 14.6191 9.90003 14.5469 10.0883 14.4213L13.8383 11.9213C14.0095 11.8072 14.1498 11.6525 14.2469 11.4711C14.344 11.2897 14.3948 11.0871 14.3948 10.8813C14.3948 10.6756 14.344 10.473 14.2469 10.2916C14.1498 10.1102 14.0095 9.9555 13.8383 9.84135L10.0883 7.34135Z" fill="currentColor" /> </svg> </button> <button class="nav-btn slider-next"> <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M1.58447 11.7868L6.48979 6.88151L1.58447 1.9762" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /> </svg> </button> </div> </div> </div> </div>
+        <section data-widget_type="widget" data-widget_name="MenusExpandableWidget" class="widget menus-expandable-widget max-view"> <div class="menus-widget-container" style="--home-label:'হোম';"> <section class="widget menu-widget"> <span id="menu-toggle" class="hamburger-menu-block"> <icon class="hamburger-menu ph ph-list"></icon> <span>মেনু নির্বাচন করুন</span> </span> <ul class="menu-list menu-parent-unordered-list custom-items-center"> <li class="megamenu-link "> <a class="menu-parent-list-link home-link" href="/"> </a> </li> <li class="megamenu-link menu-parent-list"> <a title=" এনসিটিবি সম্পর্কে" href="/site/officer_list/ad811fcf-dda0-487b-be24-6fd79e0d4eda" class="menu-parent-list-link"> এনসিটিবি সম্পর্কে <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" " class="menu-child-title"> <a title="" href="#"> <div></div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ইতিহাস" class="menu-sub-child-link" href="/pages/static-pages/6922e09d933eb65569e27d8c" > <div>ইতিহাস</div> </a> </li> <li class="menu-sub-child-list"> <a title=" আইন " class="menu-sub-child-link" href="/pages/laws" > <div>আইন </div> </a> </li> <li class="menu-sub-child-list"> <a title=" প্রবিধানমালা " class="menu-sub-child-link" href="/pages/files/6922da22933eb65569e02aab" > <div>প্রবিধানমালা </div> </a> </li> <li class="menu-sub-child-list"> <a title=" স্থাবর অস্থাবর সম্পত্তির তালিকা" class="menu-sub-child-link" href="/pages/static-pages/6922dc46933eb65569e0f6b6" > <div>স্থাবর অস্থাবর সম্পত্তির তালিকা</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" " class="menu-child-title"> <a title="" href="#"> <div></div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" কার্যাবলী " class="menu-sub-child-link" href="/pages/static-pages/6922dfd2933eb65569e2429b" > <div>কার্যাবলী </div> </a> </li> <li class="menu-sub-child-list"> <a title=" প্রতিষ্ঠানের লক্ষ্য ও উদ্দেশ্য" class="menu-sub-child-link" href="/pages/static-pages/6922df54933eb65569e213f7" > <div>প্রতিষ্ঠানের লক্ষ্য ও উদ্দেশ্য</div> </a> </li> <li class="menu-sub-child-list"> <a title=" ভিশন ও মিশন" class="menu-sub-child-link" href="/pages/static-pages/6922dffd933eb65569e24f40" > <div>ভিশন ও মিশন</div> </a> </li> <li class="menu-sub-child-list"> <a title=" সিটিজেন চার্টার" class="menu-sub-child-link" href="/pages/static-pages/6922dd6c933eb65569e14fcc" > <div>সিটিজেন চার্টার</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" মানব সম্পদ " class="menu-child-title"> <a title="মানব সম্পদ " href="#"> <div>মানব সম্পদ </div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" অর্গানোগ্রাম" class="menu-sub-child-link" href="/pages/organograms/6922d921933eb65569dfcead" > <div>অর্গানোগ্রাম</div> </a> </li> <li class="menu-sub-child-list"> <a title=" কর্মকর্তাবৃন্দ" class="menu-sub-child-link" href="/pages/officers" > <div>কর্মকর্তাবৃন্দ</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" শিক্ষাক্রম" href="" class="menu-parent-list-link"> শিক্ষাক্রম <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" শিক্ষাক্রম" class="menu-child-title"> <a title="শিক্ষাক্রম" href="#"> <div>শিক্ষাক্রম</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" প্রাক-প্রাথমিক ও প্রাথমিক স্তর (পরিমার্জিত ২০২৫)" class="menu-sub-child-link" href="/pages/static-pages/6922dd0b933eb65569e13492" > <div>প্রাক-প্রাথমিক ও প্রাথমিক স্তর (পরিমার্জিত ২০২৫)</div> </a> </li> <li class="menu-sub-child-list"> <a title=" প্রাক প্রাথমিক ২০১১" class="menu-sub-child-link" href="/pages/files/6922da05933eb65569e01e28" > <div>প্রাক প্রাথমিক ২০১১</div> </a> </li> <li class="menu-sub-child-list"> <a title=" প্রাথমিক ২০১১" class="menu-sub-child-link" href="/pages/files/6922d9f6933eb65569e015ea" > <div>প্রাথমিক ২০১১</div> </a> </li> <li class="menu-sub-child-list"> <a title=" মাধ্যমিক" class="menu-sub-child-link" href="/pages/files/6922db5b933eb65569e09a2c" > <div>মাধ্যমিক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" উচ্চ মাধ্যমিক" class="menu-sub-child-link" href="/pages/files/6922dbc6933eb65569e0c702" > <div>উচ্চ মাধ্যমিক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" সম্পূরক পঠনসামগ্রী প্রণয়ন ও নির্বাচন নীতিমালা" class="menu-sub-child-link" href="/pages/static-pages/6922e00e933eb65569e253c7" > <div>সম্পূরক পঠনসামগ্রী প্রণয়ন ও নির্বাচন নীতিমালা</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" সিলেবাস ও মান বন্টন" class="menu-child-title"> <a title="সিলেবাস ও মান বন্টন" href="#"> <div>সিলেবাস ও মান বন্টন</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ২০২৪ শিক্ষাবর্ষের বার্ষিক সামষ্টিক মূল্যায়ন নির্দেশনা" class="menu-sub-child-link" href="/pages/static-pages/6922e06b933eb65569e26f64" > <div>২০২৪ শিক্ষাবর্ষের বার্ষিক সামষ্টিক মূল্যায়ন নির্দেশনা</div> </a> </li> <li class="menu-sub-child-list"> <a title=" বিভিন্ন পরীক্ষার পুনর্বিন্যাসকৃত পাঠ্যসূচি ও নবম দশম শ্রেণির বিভিন্ন বিষয়ের প্রশ্নের ধরন" class="menu-sub-child-link" href="/pages/static-pages/6922dff5933eb65569e24d31" > <div>বিভিন্ন পরীক্ষার পুনর্বিন্যাসকৃত পাঠ্যসূচি ও নবম দশম শ্রেণির বিভিন্ন বিষয়ের প্রশ্নের ধরন</div> </a> </li> <li class="menu-sub-child-list"> <a title=" জেএসসি পরীক্ষার মান বন্টন ও নমুনা প্রশ্ন" class="menu-sub-child-link" href="/pages/static-pages/6922dda1933eb65569e15b1d" > <div>জেএসসি পরীক্ষার মান বন্টন ও নমুনা প্রশ্ন</div> </a> </li> <li class="menu-sub-child-list"> <a title=" নীতিমালা ও নোটিশ " class="menu-sub-child-link" href="/pages/publications" > <div>নীতিমালা ও নোটিশ </div> </a> </li> <li class="menu-sub-child-list"> <a title=" শিখন ঘাটতি চিহ্নিতকরণ ও নিরাময়যোগ্য পাঠ পরিকল্পনা" class="menu-sub-child-link" href="/pages/static-pages/6922dee4933eb65569e1e2b6" > <div>শিখন ঘাটতি চিহ্নিতকরণ ও নিরাময়যোগ্য পাঠ পরিকল্পনা</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" শিক্ষাক্রম মূল্যায়ন " class="menu-child-title"> <a title="শিক্ষাক্রম মূল্যায়ন " href="#"> <div>শিক্ষাক্রম মূল্যায়ন </div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" প্রাথমিক শিক্ষাক্রম মূল্যায়ন " class="menu-sub-child-link" href="/pages/files/6922dbd3933eb65569e0cd02" > <div>প্রাথমিক শিক্ষাক্রম মূল্যায়ন </div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" পাঠ্যপুস্তক" href="/pages/publications" class="menu-parent-list-link"> পাঠ্যপুস্তক <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" নতুন বছরের পাঠ্যপুস্তক " class="menu-child-title"> <a title="নতুন বছরের পাঠ্যপুস্তক " href="#"> <div>নতুন বছরের পাঠ্যপুস্তক </div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ২০২৬ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক" class="menu-sub-child-link" href="/pages/static-pages/695b97ffc4774958d7b70329" > <div>২০২৬ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" ২০২৫ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক" class="menu-sub-child-link" href="/pages/static-pages/6922df2c933eb65569e20586" > <div>২০২৫ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" ২০২৪ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক" class="menu-sub-child-link" href="/pages/static-pages/6922de68933eb65569e1a70c" > <div>২০২৪ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" English for Today Listening Text" class="menu-sub-child-link" href="/pages/static-pages/6922de8f933eb65569e1b977" > <div>English for Today Listening Text</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" আর্কাইভ " class="menu-child-title"> <a title="আর্কাইভ " href="#"> <div>আর্কাইভ </div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ২০২৩ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক" class="menu-sub-child-link" href="/pages/static-pages/6922dd35933eb65569e13f12" > <div>২০২৩ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" ২০২২ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক" class="menu-sub-child-link" href="/pages/static-pages/6922dce3933eb65569e12943" > <div>২০২২ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" ২০২১ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক" class="menu-sub-child-link" href="/pages/static-pages/6922dbc9933eb65569e0c85a" > <div>২০২১ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" ২০২০ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক" class="menu-sub-child-link" href="/pages/static-pages/6922dd7f933eb65569e15431" > <div>২০২০ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" ২০১৯ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক" class="menu-sub-child-link" href="/pages/static-pages/6922db65933eb65569e09ead" > <div>২০১৯ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তক</div> </a> </li> <li class="menu-sub-child-list"> <a title=" ২০১৮ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তকের তালিকা " class="menu-sub-child-link" href="/pages/static-pages/6922dfc9933eb65569e23fcb" > <div>২০১৮ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তকের তালিকা </div> </a> </li> <li class="menu-sub-child-list"> <a title=" ২০১৭ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তকের তালিকা" class="menu-sub-child-link" href="/pages/static-pages/6922dc50933eb65569e0fa9f" > <div>২০১৭ শিক্ষাবর্ষের সকল স্তরের পাঠ্যপুস্তকের তালিকা</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" শিক্ষক সহায়িকা" href="/pages/static-pages/6922e0d7933eb65569e28cf0" class="menu-parent-list-link"> শিক্ষক সহায়িকা <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" নতুন বছরের শিক্ষক সহায়িকা" class="menu-child-title"> <a title="নতুন বছরের শিক্ষক সহায়িকা" href="#"> <div>নতুন বছরের শিক্ষক সহায়িকা</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ২০২৪ শিক্ষাবর্ষের শিক্ষক সহায়িকা" class="menu-sub-child-link" href="/pages/static-pages/6922e0d7933eb65569e28cf0" > <div>২০২৪ শিক্ষাবর্ষের শিক্ষক সহায়িকা</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" শিক্ষক সহায়িকা আর্কাইভ" class="menu-child-title"> <a title="শিক্ষক সহায়িকা আর্কাইভ" href="#"> <div>শিক্ষক সহায়িকা আর্কাইভ</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ২০২৩ শিক্ষাবর্ষের শিক্ষক সহায়িকা" class="menu-sub-child-link" href="#" > <div>২০২৩ শিক্ষাবর্ষের শিক্ষক সহায়িকা</div> </a> <ul class="menu-sub-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-sub-child-list"> <a title=" ১ম শ্রেণি" class="menu-sub-sub-child-link" href="/pages/static-pages/6922de8f933eb65569e1b98b" > <div>১ম শ্রেণি</div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" ষষ্ঠ শ্রেণি" class="menu-sub-sub-child-link" href="/pages/static-pages/6922dcb2933eb65569e1196c" > <div>ষষ্ঠ শ্রেণি</div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" সপ্তম শ্রেণি" class="menu-sub-sub-child-link" href="/pages/static-pages/6922dcd3933eb65569e12431" > <div>সপ্তম শ্রেণি</div> </a> </li> </ul> </li> <li class="menu-sub-child-list"> <a title=" প্রাথমিক স্তর " class="menu-sub-child-link" href="#" > <div>প্রাথমিক স্তর </div> </a> <ul class="menu-sub-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-sub-child-list"> <a title=" প্রথম শ্রেণি " class="menu-sub-sub-child-link" href="/pages/static-pages/6922e144933eb65569e2b330" > <div>প্রথম শ্রেণি </div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" দ্বিতীয় শ্রেণি " class="menu-sub-sub-child-link" href="/pages/static-pages/6922e097933eb65569e27ba4" > <div>দ্বিতীয় শ্রেণি </div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" তৃতীয় শ্রেণি " class="menu-sub-sub-child-link" href="/pages/static-pages/6922de1d933eb65569e185c0" > <div>তৃতীয় শ্রেণি </div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" চতুর্থ শ্রেণি " class="menu-sub-sub-child-link" href="/pages/static-pages/6922e0cf933eb65569e28a8d" > <div>চতুর্থ শ্রেণি </div> </a> </li> <li class="menu-sub-sub-child-list"> <a title=" পঞ্চম শ্রেণি " class="menu-sub-sub-child-link" href="/pages/static-pages/6922e04d933eb65569e26653" > <div>পঞ্চম শ্রেণি </div> </a> </li> </ul> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" শিক্ষক ডায়েরি" class="menu-child-title"> <a title="শিক্ষক ডায়েরি" href="#"> <div>শিক্ষক ডায়েরি</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ২০২৩ শিক্ষাবর্ষের শিক্ষক ডায়েরি" class="menu-sub-child-link" href="/pages/static-pages/6922de6d933eb65569e1a907" > <div>২০২৩ শিক্ষাবর্ষের শিক্ষক ডায়েরি</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" আইসিটি" href="#" class="menu-parent-list-link"> আইসিটি <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" আইডিটি ও ই-লার্নিং " class="menu-child-title"> <a title="আইডিটি ও ই-লার্নিং " href="#"> <div>আইডিটি ও ই-লার্নিং </div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ই-লার্নিং ও ই-ম্যানুয়েল" class="menu-sub-child-link" href="http://digitalcontent.ictd.gov.bd/" > <div>ই-লার্নিং ও ই-ম্যানুয়েল</div> </a> </li> <li class="menu-sub-child-list"> <a title=" আইডিটি ষষ্ঠ শ্রেণি" class="menu-sub-child-link" href="/pages/static-pages/6922de33933eb65569e18f7c" > <div>আইডিটি ষষ্ঠ শ্রেণি</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" ডিজিটাইজেশন " class="menu-child-title"> <a title="ডিজিটাইজেশন " href="#"> <div>ডিজিটাইজেশন </div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" পাঠ্যপুস্তকের চাহিদা গ্রহণ/বিতরণ সিস্টেম " class="menu-sub-child-link" href="https://nctb.ihealthscreen.org/" > <div>পাঠ্যপুস্তকের চাহিদা গ্রহণ/বিতরণ সিস্টেম </div> </a> </li> <li class="menu-sub-child-list"> <a title=" ডিজিটাল স্বাক্ষর" class="menu-sub-child-link" href="/pages/static-pages/6922ddf7933eb65569e175ae" > <div>ডিজিটাল স্বাক্ষর</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" মাল্টিমিডিয়া টকিং বুক" class="menu-child-title"> <a title="মাল্টিমিডিয়া টকিং বুক" href="/pages/static-pages/6922df78933eb65569e22328"> <div>মাল্টিমিডিয়া টকিং বুক</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ২০২৩ শিক্ষাবর্ষের ব্রেইল এর সকল শ্রেণির মাল্টিমিডিয়া টকিং বুক" class="menu-sub-child-link" href="/pages/static-pages/6922df78933eb65569e22328" > <div>২০২৩ শিক্ষাবর্ষের ব্রেইল এর সকল শ্রেণির মাল্টিমিডিয়া টকিং বুক</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" উদ্ভাবনী " class="menu-child-title"> <a title="উদ্ভাবনী " href="/pages/static-pages/6922de91933eb65569e1ba7a"> <div>উদ্ভাবনী </div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" উদ্ভাবনী কমিটি " class="menu-sub-child-link" href="#" > <div>উদ্ভাবনী কমিটি </div> </a> </li> <li class="menu-sub-child-list"> <a title=" নতুন আইডিয়া " class="menu-sub-child-link" href="#" > <div>নতুন আইডিয়া </div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" মূল্যায়ন নির্দেশিকা" href="" class="menu-parent-list-link"> মূল্যায়ন নির্দেশিকা <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" মূল্যায়ন নির্দেশিকা" class="menu-child-title"> <a title="মূল্যায়ন নির্দেশিকা" href="#"> <div>মূল্যায়ন নির্দেশিকা</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" প্রাথমিক স্তরের মূল্যায়ন নির্দেশিকা - ২০২৬" class="menu-sub-child-link" href="https://nctb.gov.bd/pages/static-pages/6988638a3121d2f262f0eab3" > <div>প্রাথমিক স্তরের মূল্যায়ন নির্দেশিকা - ২০২৬</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" প্রাথমিক স্তরের মূল্যায়ন নির্দেশিকা" class="menu-child-title"> <a title="প্রাথমিক স্তরের মূল্যায়ন নির্দেশিকা" href="/site/page/b543ab16-f60a-4e9f-a621-93b69b6c61cf"> <div>প্রাথমিক স্তরের মূল্যায়ন নির্দেশিকা</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" প্রাথমিক স্তরের মূল্যায়ন নির্দেশিকা" class="menu-sub-child-link" href="/pages/static-pages/6922dcf3933eb65569e12e58" > <div>প্রাথমিক স্তরের মূল্যায়ন নির্দেশিকা</div> </a> </li> </ul> </div> </div> </li> <li class="megamenu-link menu-parent-list"> <a title=" গুরুত্বপূর্ণ ডকুমেন্টসমূহ" href="#" class="menu-parent-list-link"> গুরুত্বপূর্ণ ডকুমেন্টসমূহ <icon class="menu-parent-list-link-icon ph ph-caret-double-down"></icon> </a> <div class="mega-menu-dropdown megaMenu"> <div class="menu-child-box "> <h6 title=" অফিস আদেশ" class="menu-child-title"> <a title="অফিস আদেশ" href="#"> <div>অফিস আদেশ</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" প্রশিক্ষণ" class="menu-sub-child-link" href="#" > <div>প্রশিক্ষণ</div> </a> </li> <li class="menu-sub-child-list"> <a title=" কর্মশালা" class="menu-sub-child-link" href="#" > <div>কর্মশালা</div> </a> </li> <li class="menu-sub-child-list"> <a title=" এনওসি ও বিদেশ ভ্রমন" class="menu-sub-child-link" href="/pages/go-ultimates" > <div>এনওসি ও বিদেশ ভ্রমন</div> </a> </li> <li class="menu-sub-child-list"> <a title=" পদন্নোতি/বেতন নির্ধারণ" class="menu-sub-child-link" href="#" > <div>পদন্নোতি/বেতন নির্ধারণ</div> </a> </li> <li class="menu-sub-child-list"> <a title=" বিদেশ ভ্রমন" class="menu-sub-child-link" href="/pages/go-ultimates" > <div>বিদেশ ভ্রমন</div> </a> </li> <li class="menu-sub-child-list"> <a title=" অন্যান্য অফিস আদেশ" class="menu-sub-child-link" href="#" > <div>অন্যান্য অফিস আদেশ</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" নোটিশ " class="menu-child-title"> <a title="নোটিশ " href="#"> <div>নোটিশ </div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" গুরুত্বপূর্ণ ডকুমেন্টসমূহ" class="menu-sub-child-link" href="/pages/static-pages/6922de84933eb65569e1b39f" > <div>গুরুত্বপূর্ণ ডকুমেন্টসমূহ</div> </a> </li> <li class="menu-sub-child-list"> <a title=" আর্কাইভ নোটিশ " class="menu-sub-child-link" href="/pages/notices?archived=true" > <div>আর্কাইভ নোটিশ </div> </a> </li> <li class="menu-sub-child-list"> <a title=" টেন্ডার" class="menu-sub-child-link" href="/pages/tenders" > <div>টেন্ডার</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" নীতিমালা" class="menu-child-title"> <a title="নীতিমালা" href="#"> <div>নীতিমালা</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" ঋণদান নীতিমালা ২০২০" class="menu-sub-child-link" href="/pages/policies" > <div>ঋণদান নীতিমালা ২০২০</div> </a> </li> </ul> </div> <div class="menu-child-box "> <h6 title=" বিভিন্ন ফরম" class="menu-child-title"> <a title="বিভিন্ন ফরম" href="#"> <div>বিভিন্ন ফরম</div> </a> </h6> <ul class="menu-sub-child-unordered-list" aria-labelledby="mega-menu-dropdown-button"> <li class="menu-sub-child-list"> <a title=" এসিআর ফর্ম (ক্যাডার কর্মকর্তা)" class="menu-sub-child-link" href="https://mopa.gov.bd/pages/mopa-report-publication?filters=%7B%22go_type%22%3A%20%22694137eda31054345f0e5bdb%22%7D" > <div>এসিআর ফর্ম (ক্যাডার কর্মকর্তা)</div> </a> </li> </ul> </div> </div> </li> </ul> </section> </div> <div class="expand-btn"> <span><i class="ph ph-list"></i> আরও</span> <span style="display:none;"><i class="ph ph-caret-up"></i> সংক্ষিপ্ত</span> </div> </section> 
+    </div></div>
+  <div class="wrapper">
+    <div class="body"><div data-section_type="body" class="droppable">
+        <section data-widget_type="widget" data-widget_name="SocialContentShareWidget" class="widget social-content-share-widget">
+    <div>
+        <p class="social-content-share-widget-title ">এই কনটেন্টটি শেয়ার করতে ক্লিক করুন</p>
+        <div class="social-content-share-widget-social-icons">
+            <a title="Facebook" class="social-content-share-widget-social-icons-link facebook-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-facebook-logo social-content-share-widget-fb-icon"></i>
+            </a>
+            <a title="X (Formerly Twitter)" class="social-content-share-widget-social-icons-link twitter-share" target="_blank" rel="noopener">
+                <i class="ph ph-x-logo social-content-share-widget-twitter-icon"></i>
+            </a>
+            <a title="WhatsApp" class="social-content-share-widget-social-icons-link whatsapp-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-whatsapp-logo social-content-share-widget-whatsapp-icon"></i>
+            </a>
+            <a title="LinkedIn" class="social-content-share-widget-social-icons-link linkedin-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-linkedin-logo social-content-share-widget-linkedin-icon"></i>
+            </a>
+            <a title="Viber" class="social-content-share-widget-social-icons-link viber-share" target="_blank" rel="noopener">
+                <!--<i class="ph-fill ph-chat-circle-text social-content-share-widget-viber-icon"></i>-->
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+                 <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+                     <path d="M 63.357 24.877 c -1.243 -1.147 -6.264 -4.792 -17.448 -4.841 c 0 0 -13.189 -0.796 -19.618 5.102 c -3.579 3.58 -4.838 8.818 -4.97 15.312 c -0.133 6.494 -0.305 18.664 11.426 21.964 h 0.011 l -0.007 5.035 c 0 0 -0.075 2.038 1.267 2.454 c 1.624 0.504 2.577 -1.045 4.127 -2.716 c 0.851 -0.917 2.026 -2.264 2.911 -3.293 c 8.023 0.675 14.194 -0.868 14.894 -1.096 c 1.62 -0.525 10.787 -1.7 12.277 -13.869 C 69.766 36.387 67.483 28.453 63.357 24.877 z M 56.614 52.131 c 0 0.005 -0.004 0.014 -0.004 0.019 c -0.517 0.896 -1.172 1.703 -1.943 2.392 c -0.009 0.004 -0.009 0.009 -0.017 0.013 c -0.669 0.559 -1.327 0.877 -1.973 0.954 c -0.095 0.017 -0.192 0.023 -0.288 0.018 c -0.285 0.003 -0.568 -0.041 -0.839 -0.129 l -0.021 -0.031 c -0.995 -0.281 -2.656 -0.983 -5.423 -2.509 c -1.601 -0.873 -3.125 -1.879 -4.556 -3.009 c -0.717 -0.566 -1.401 -1.173 -2.049 -1.817 l -0.069 -0.069 l -0.069 -0.069 l -0.069 -0.069 c -0.023 -0.022 -0.046 -0.046 -0.069 -0.069 c -0.644 -0.648 -1.251 -1.332 -1.817 -2.049 c -1.13 -1.431 -2.137 -2.954 -3.009 -4.555 c -1.526 -2.767 -2.228 -4.427 -2.509 -5.423 l -0.031 -0.021 c -0.088 -0.271 -0.131 -0.554 -0.128 -0.839 c -0.005 -0.096 0.001 -0.193 0.017 -0.288 c 0.081 -0.645 0.399 -1.303 0.955 -1.974 c 0.004 -0.008 0.009 -0.008 0.013 -0.017 c 0.689 -0.771 1.497 -1.426 2.392 -1.942 c 0.004 0 0.013 -0.004 0.019 -0.004 c 0.901 -0.469 1.754 -0.31 2.335 0.375 c 0.004 0.004 1.209 1.451 1.726 2.157 c 0.532 0.749 1.027 1.523 1.481 2.322 c 0.593 1.063 0.221 2.152 -0.361 2.601 l -1.174 0.933 c -0.593 0.479 -0.514 1.368 -0.514 1.368 s 1.739 6.583 8.238 8.242 c 0 0 0.889 0.075 1.368 -0.515 l 0.933 -1.174 c 0.45 -0.582 1.537 -0.954 2.601 -0.361 c 0.797 0.454 1.571 0.949 2.319 1.481 c 0.706 0.519 2.152 1.726 2.156 1.726 C 56.924 50.376 57.083 51.23 56.614 52.131 z M 51.238 35.889 c -1.316 -1.436 -3.119 -2.219 -5.511 -2.394 c -0.348 -0.026 -0.61 -0.329 -0.584 -0.677 c 0.026 -0.348 0.33 -0.611 0.677 -0.584 c 2.692 0.197 4.829 1.14 6.352 2.802 c 1.526 1.668 2.273 3.765 2.219 6.233 c -0.007 0.344 -0.289 0.619 -0.632 0.619 c -0.004 0 -0.009 0 -0.014 0 c -0.349 -0.008 -0.626 -0.297 -0.619 -0.646 C 53.173 39.078 52.556 37.328 51.238 35.889 z M 51.145 40.135 c 0.017 0.349 -0.252 0.646 -0.601 0.663 c -0.011 0.001 -0.021 0.001 -0.032 0.001 c -0.335 0 -0.614 -0.263 -0.631 -0.601 c -0.107 -2.149 -1.117 -3.201 -3.181 -3.308 c -0.349 -0.018 -0.617 -0.316 -0.599 -0.664 c 0.018 -0.349 0.314 -0.618 0.664 -0.599 C 49.491 35.769 51.006 37.327 51.145 40.135 z M 57.086 43.186 c -0.002 0 -0.003 0 -0.005 0 c -0.347 0 -0.63 -0.28 -0.632 -0.628 c -0.029 -3.816 -1.174 -6.853 -3.404 -9.027 c -2.234 -2.178 -5.057 -3.294 -8.39 -3.317 c -0.349 -0.002 -0.631 -0.288 -0.628 -0.637 c 0.002 -0.348 0.285 -0.628 0.632 -0.628 c 0.002 0 0.003 0 0.004 0 c 3.672 0.026 6.789 1.262 9.264 3.676 c 2.481 2.418 3.754 5.757 3.786 9.923 C 57.715 42.898 57.434 43.183 57.086 43.186 z"
+                           style="stroke: none;stroke-width: 1;stroke-dasharray: none;stroke-linecap: butt;stroke-linejoin: miter;stroke-miterlimit: 10;fill:#665cac;fill-rule: nonzero;opacity:1;"
+                           transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                 </g>
+             </svg>
+            </a>
+            <a title="Copy Link" class="social-content-share-widget-social-icons-link link-share" target="_blank" rel="noopener" onclick="window.copyToClipboard(location.href);">
+                <i class="ph ph-link social-content-share-widget-link-icon"></i>
+            </a>
+            <a title="Messenger" class="social-content-share-widget-social-icons-link messenger-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-messenger-logo social-content-share-widget-messenger-icon"></i>
+            </a>
+        </div>
+    </div>
+    <div>
+        <div
+  class="widget eps-opinion-popup-widget"
+  data-widget="EParticipationOpinionPopupWidget"
+>
+  <!-- Trigger Button -->
+  <div class="eps-opinion-trigger-wrapper">
+    <p class="social-content-share-widget-title ">&nbsp;</p>
+    <!-- Removed ID to support multiple instances -->
+    <button type="button" class="eps-opinion-btn">
+      <span></span>
+      <span>আপনার মতামত প্রদান করুন</span>
+      <i class="ph ph-chat-circle-text"></i>
+    </button>
+  </div>
+
+  <!-- Modal -->
+  <!-- Removed ID to support multiple instances -->
+  <div class="eps-opinion-modal" aria-hidden="true">
+    <div class="eps-opinion-modal-overlay"></div>
+    <div class="eps-opinion-modal-container">
+      <div class="eps-opinion-modal-header">
+        <h3>আপনার মতামত প্রদান করুন</h3>
+        <button type="button" class="eps-opinion-close" aria-label="Close">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <div class="eps-opinion-modal-body">
+        <div
+  class="widget eps-opinion-form-widget"
+  data-widget="EParticipationOpinionFormWidget"
+>
+  <div class="unique-category-container">
+    <form id="opinionForm" class="opinion-form" enctype="multipart/form-data">
+      <!-- We allow an external hidden input or radio group to set this, but default here -->
+      <input type="hidden" name="opinionType" value="suggestion" />
+
+      <div>
+        <label class="form-label">আপনার নাম</label>
+        <input
+          name="name"
+          type="text"
+          placeholder="আপনার নাম লিখুন"
+        />
+        <small class="error-message" hidden>
+          নাম অবশ্যই দিতে হবে
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">আপনার ইমেইল</label>
+        <input
+          name="email"
+          type="email"
+          placeholder="আপনার ইমেইল লিখুন"
+        />
+        <small class="error-message" hidden>
+          সঠিক ইমেইল দিন
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">আপনার যোগাযোগ নম্বর</label>
+        <input
+          name="phone"
+          type="tel"
+          placeholder="আপনার যোগাযোগ নম্বর লিখুন"
+        />
+        <small class="error-message" hidden>
+          সঠিক ফোন নম্বর দিন (যেমন 017XXXXXXXX)
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">আপনার মতামত</label>
+        <textarea name="body" id="popupEditor"></textarea>
+        <small class="error-message" hidden>
+          মতামত কমপক্ষে ২০ অক্ষরের হতে হবে
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label"
+          >Attachment (jpg, jpeg, png, pdf • max 2 MB)</label
+        >
+        <input name="attachment" type="file" accept=".jpg,.jpeg,.png,.pdf" />
+        <small class="error-message" hidden>
+          Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+        </small>
+      </div>
+
+      <div>
+        <button type="submit" id="popupSubmitBtn">জমা দিন</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Ensure CKEditor is available if not loaded globally -->
+  <script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+</section>
+
+        <div data-widget_type="widget" data-widget_name="ContentViewerWidget" class="widget content-view-widget"> <div class="content-update-block"> <p> কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: সোমবার, ২৯ ডিসেম্বর, ২০২৫ এ ০৪:২৯ AM </p> </div> <div class="widget print-widget"> <div></div> <div onclick="window._print_content(this);" title="প্রিন্ট"><i class="ph ph-printer"></i></div> </div> <div class="widget title-with-image-content-widget"> <h2> ২০২৬ শিক্ষাবর্ষের দাখিল স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক </h2> <p class="chips"> <span class="basic-chip">কন্টেন্ট: পাতা</span> </p> <div class="image-list"> </div> <rt-renderer encoded-content="PHRhYmxlIGJvcmRlcj0iIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPg0KCTx0Ym9keT4NCgkJPHRyPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDo1NnB4Ij4NCgkJCTxwPjxzdHJvbmc+4KaV4KeN4Kaw4Kau4Ka/4KaVPC9zdHJvbmc+PC9wPg0KCQkJPC90ZD4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6MjM3cHgiPg0KCQkJPHA+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7PHN0cm9uZz7gpqrgpr7gpqDgp43gpq/gpqrgp4Hgprjgp43gpqTgppXgp4fgprA8L3N0cm9uZz4mbmJzcDs8c3Ryb25nPuCmqOCmvuCmrjwvc3Ryb25nPjwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahPC9zdHJvbmc+PC9wPg0KCQkJPC90ZD4NCgkJPC90cj4NCgkJPHRyPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDo1NnB4Ij4NCgkJCTxwPuCnpzwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIzN3B4Ij4NCgkJCTxwPuCmmuCmvuCmsOCngeCmquCmvuCmoDwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMXd1emFLaWVVQkxDaXBfWHJRSVR5amMxR3JsZG91amVRL3ZpZXc/dXNwPWRyaXZlX2xpbmsiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6c8L3N0cm9uZz48L2E+PC9wPg0KDQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmVnb3ZjbG91ZC5nb3YuYmQvaW5kZXgucGhwL3MvbFBvMXRxYUFPNHltcHRwIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KeoPC9zdHJvbmc+PC9hPjwvcD4NCgkJCTwvdGQ+DQoJCTwvdHI+DQoJCTx0cj4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6NTZweCI+DQoJCQk8cD7gp6g8L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMzdweCI+DQoJCQk8cD5FbmdsaXNoIEZvciBUb2RheTwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMWZXNERyaXhONVQ2RDZ0eWFQSF91a3dHdGQwblVTc1dXL3ZpZXc/dXNwPWRyaXZlX2xpbmsiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6c8L3N0cm9uZz48L2E+PC9wPg0KDQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmVnb3ZjbG91ZC5nb3YuYmQvaW5kZXgucGhwL3MvN3dzazBmU2JaQUw1cGM4Ij48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KeoPC9zdHJvbmc+PC9hPjwvcD4NCgkJCTwvdGQ+DQoJCTwvdHI+DQoJCTx0cj4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6NTZweCI+DQoJCQk8cD7gp6k8L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMzdweCI+DQoJCQk8cD5FbmdsaXNoIEdyYW1tYXIgYW5kIENvbXBvc2l0aW9uPC9wPg0KCQkJPC90ZD4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6MjAxcHgiPg0KCQkJPHA+PGEgaHJlZj0iaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbTZQcUE4dnFELW1VVlZxenFsS2RhRFNRSHNBMGJmWWIvdmlldz91c3A9ZHJpdmVfbGluayI+PHN0cm9uZz7gpqHgpr7gpongpqjgprLgp4vgpqEg4Kay4Ka/4KaC4KaVLeCnpzwvc3Ryb25nPjwvYT48L3A+DQoNCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZWdvdmNsb3VkLmdvdi5iZC9pbmRleC5waHAvcy9Wd3lBekxGVUF2VHNLbG0iPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6g8L3N0cm9uZz48L2E+PC9wPg0KCQkJPC90ZD4NCgkJPC90cj4NCgkJPHRyPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDo1NnB4Ij4NCgkJCTxwPuCnqjwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIzN3B4Ij4NCgkJCTxwPuCml+Cmo+Cmv+CmpDwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMUJndHZIR0lLYjlJc3RYa25fT3ppSTBFQ1E3NnM0Vy1iL3ZpZXc/dXNwPWRyaXZlX2xpbmsiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6c8L3N0cm9uZz48L2E+PC9wPg0KDQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmVnb3ZjbG91ZC5nb3YuYmQvaW5kZXgucGhwL3MvQk8wQ2ZYQlVwMGNBbFZnIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KeoPC9zdHJvbmc+PC9hPjwvcD4NCgkJCTwvdGQ+DQoJCTwvdHI+DQoJCTx0cj4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6NTZweCI+DQoJCQk8cD7gp6s8L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMzdweCI+DQoJCQk8cD7gpqzgpr/gppzgp43gpp7gpr7gpqg8L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMDFweCI+DQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFrd2xSN1haeXVoS0J2MXZ1WVJFSVlrVFBQRkVUdE1fZS92aWV3P3VzcD1kcml2ZV9saW5rIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KenPC9zdHJvbmc+PC9hPjwvcD4NCg0KCQkJPHA+PGEgaHJlZj0iaHR0cHM6Ly9kcml2ZS5lZ292Y2xvdWQuZ292LmJkL2luZGV4LnBocC9zL0lqbGxTRm1kYkM0ZVRXaiI+PHN0cm9uZz7gpqHgpr7gpongpqjgprLgp4vgpqEg4Kay4Ka/4KaC4KaVLeCnqDwvc3Ryb25nPjwvYT48L3A+DQoJCQk8L3RkPg0KCQk8L3RyPg0KCQk8dHI+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjU2cHgiPg0KCQkJPHA+4KesPC9wPg0KCQkJPC90ZD4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6MjM3cHgiPg0KCQkJPHA+4Kas4Ka+4KaC4Kay4Ka+4Kam4KeH4Ka2IOCmkyDgpqzgpr/gprbgp43gpqzgpqrgprDgpr/gpprgp588L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMDFweCI+DQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzF4aFl1d2IzZWR1OGJMQnhzZkNuMWZvbG9NVUFyT1l2YS92aWV3P3VzcD1kcml2ZV9saW5rIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KenPC9zdHJvbmc+PC9hPjwvcD4NCg0KCQkJPHA+PGEgaHJlZj0iaHR0cHM6Ly9kcml2ZS5lZ292Y2xvdWQuZ292LmJkL2luZGV4LnBocC9zL2dOUktBalV4WXZydW9mZiI+PHN0cm9uZz7gpqHgpr7gpongpqjgprLgp4vgpqEg4Kay4Ka/4KaC4KaVLeCnqDwvc3Ryb25nPjwvYT48L3A+DQoJCQk8L3RkPg0KCQk8L3RyPg0KCQk8dHI+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjU2cHgiPg0KCQkJPHA+4KetPC9wPg0KCQkJPC90ZD4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6MjM3cHgiPg0KCQkJPHA+4Kak4Kal4KeN4KavIOCmkyDgpq/gp4vgppfgpr7gpq/gp4vgppcg4Kaq4KeN4Kaw4Kav4KeB4KaV4KeN4Kak4Ka/PC9wPg0KCQkJPC90ZD4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6MjAxcHgiPg0KCQkJPHA+PGEgaHJlZj0iaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZTQxdG9CakM0OENSSWV1TjNDSjJCMGU0bFF6bXp0aE0vdmlldz91c3A9ZHJpdmVfbGluayI+PHN0cm9uZz7gpqHgpr7gpongpqjgprLgp4vgpqEg4Kay4Ka/4KaC4KaVLeCnpzwvc3Ryb25nPjwvYT48L3A+DQoNCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZWdvdmNsb3VkLmdvdi5iZC9pbmRleC5waHAvcy9FNlVINEZmSmEzd0N5eGEiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6g8L3N0cm9uZz48L2E+PC9wPg0KCQkJPC90ZD4NCgkJPC90cj4NCgkJPHRyPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDo1NnB4Ij4NCgkJCTxwPuCnrjwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIzN3B4Ij4NCgkJCTxwPuCmleCmsOCnjeCmriDgppMg4Kac4KeA4Kas4Kao4Kau4KeB4KaW4KeAIOCmtuCmv+CmleCnjeCmt+CmvjwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMWxIdERHbGVFRXJiODJFNkExZHkyVzR0TzlpZHVWZlh6L3ZpZXc/dXNwPWRyaXZlX2xpbmsiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6c8L3N0cm9uZz48L2E+PC9wPg0KDQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmVnb3ZjbG91ZC5nb3YuYmQvaW5kZXgucGhwL3MvUmdNeHhncVIwQzlwUUhEIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KeoPC9zdHJvbmc+PC9hPjwvcD4NCgkJCTwvdGQ+DQoJCTwvdHI+DQoJCTx0cj4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6NTZweCI+DQoJCQk8cD7gp688L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMzdweCI+DQoJCQk8cD7gppXgp4Pgprfgpr/gprbgpr/gppXgp43gprfgpr48L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMDFweCI+DQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFoRTVNUFU4WngyWXZkQWhCbFVwa3NUZWtya3k2LUdkMy92aWV3P3VzcD1kcml2ZV9saW5rIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KenPC9zdHJvbmc+PC9hPjwvcD4NCg0KCQkJPHA+PGEgaHJlZj0iaHR0cHM6Ly9kcml2ZS5lZ292Y2xvdWQuZ292LmJkL2luZGV4LnBocC9zL2RtaG1IUzV1Z2g4U1owZCI+PHN0cm9uZz7gpqHgpr7gpongpqjgprLgp4vgpqEg4Kay4Ka/4KaC4KaVLeCnqDwvc3Ryb25nPjwvYT48L3A+DQoJCQk8L3RkPg0KCQk8L3RyPg0KCQk8dHI+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjU2cHgiPg0KCQkJPHA+4Ken4KemPC9wPg0KCQkJPC90ZD4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6MjM3cHgiPg0KCQkJPHA+4KaX4Ka+4Kaw4KeN4Ka54Ka44KeN4Kal4KeN4KavIOCmrOCmv+CmnOCnjeCmnuCmvuCmqDwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMUs3NEhVVVZQb2sxdnBvVUFGdnRCOXY3MFNzUzRVTE1uL3ZpZXc/dXNwPWRyaXZlX2xpbmsiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6c8L3N0cm9uZz48L2E+PC9wPg0KDQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmVnb3ZjbG91ZC5nb3YuYmQvaW5kZXgucGhwL3MvQXRaSThJVmNXeDdvdGtVIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KeoPC9zdHJvbmc+PC9hPjwvcD4NCgkJCTwvdGQ+DQoJCTwvdHI+DQoJCTx0cj4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6NTZweCI+DQoJCQk8cD7gp6fgp6c8L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMzdweCI+DQoJCQk8cD7gprbgpr7gprDgp4DgprDgpr/gppUg4Ka24Ka/4KaV4KeN4Ka34Ka+IOCmkyDgprjgp43gpqzgpr7gprjgp43gpqXgp43gpq88L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMDFweCI+DQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzFxT0l2bUtjQVVFZUtfaGZxd01UTGFKSkpvcGJzam9IeC92aWV3P3VzcD1kcml2ZV9saW5rIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KenPC9zdHJvbmc+PC9hPjwvcD4NCg0KCQkJPHA+PGEgaHJlZj0iaHR0cHM6Ly9kcml2ZS5lZ292Y2xvdWQuZ292LmJkL2luZGV4LnBocC9zL1h0TlhWNnU2SDJZNHVOVyI+PHN0cm9uZz7gpqHgpr7gpongpqjgprLgp4vgpqEg4Kay4Ka/4KaC4KaVLeCnqDwvc3Ryb25nPjwvYT48L3A+DQoJCQk8L3RkPg0KCQk8L3RyPg0KCQk8dHI+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjU2cHgiPg0KCQkJPHA+4Ken4KeoPC9wPg0KCQkJPC90ZD4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6MjM3cHgiPg0KCQkJPHA+4Kas4Ka+4KaC4Kay4Ka+IOCmrOCnjeCmr+CmvuCmleCmsOCmoyDgppMg4Kao4Ka/4Kaw4KeN4Kau4Ka/4Kak4Ka/PC9wPg0KCQkJPC90ZD4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6MjAxcHgiPg0KCQkJPHA+PGEgaHJlZj0iaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xcWhfQlVYMkxNYXVaWkpLRmF3YnNNRUxUYkU3Q3RQbW0vdmlldz91c3A9ZHJpdmVfbGluayI+PHN0cm9uZz7gpqHgpr7gpongpqjgprLgp4vgpqEg4Kay4Ka/4KaC4KaVLeCnpzwvc3Ryb25nPjwvYT48L3A+DQoNCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZWdvdmNsb3VkLmdvdi5iZC9pbmRleC5waHAvcy9BV2MxWlJkUUpsekV2UlUiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6g8L3N0cm9uZz48L2E+PC9wPg0KCQkJPC90ZD4NCgkJPC90cj4NCgkJPHRyPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDo1NnB4Ij4NCgkJCTxwPuCnp+CnqTwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIzN3B4Ij4NCgkJCTxwPuCmleCngeCmsOCmhuCmqCDgpq7gpr7gppzgpr/gpqYg4KaTIOCmpOCmvuCmnOCmreCmv+CmpjwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMUVaSGNhck9HUHhYOHpvdEFoLXp1TmhYYTlISDhYcllrL3ZpZXc/dXNwPWRyaXZlX2xpbmsiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6c8L3N0cm9uZz48L2E+PC9wPg0KDQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmVnb3ZjbG91ZC5nb3YuYmQvaW5kZXgucGhwL3MvdlVLZ1N3OTI2bGJoUDhSIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KeoPC9zdHJvbmc+PC9hPjwvcD4NCgkJCTwvdGQ+DQoJCTwvdHI+DQoJCTx0cj4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6NTZweCI+DQoJCQk8cD7gp6fgp6o8L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMzdweCI+DQoJCQk8cD7gpobgppXgpr7gpofgpqYg4KaTIOCmq+Cmv+CmleCmuTwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMVJleGZNRlZSS0g0UjhTM0o0NEoyVzlQTWtYOTBKZHZ4L3ZpZXc/dXNwPWRyaXZlX2xpbmsiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6c8L3N0cm9uZz48L2E+PC9wPg0KDQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmVnb3ZjbG91ZC5nb3YuYmQvaW5kZXgucGhwL3MvYUIyVGRzTFNxV3dxU1ZSIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KeoPC9zdHJvbmc+PC9hPjwvcD4NCgkJCTwvdGQ+DQoJCTwvdHI+DQoJCTx0cj4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6NTZweCI+DQoJCQk8cD7gp6fgp6s8L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMzdweCI+DQoJCQk8cD7gpobgprLgprLgp4Hgppfgpr7gpqTgp4HgprIg4KaG4Kaw4Ka+4Kas4Ka/4Kef4KeN4Kav4Ka+4Kak4KeB4KayIOCmh+CmpOCnjeCmpOCmv+CmuOCmvuCmsuCmv+Cnn+CnjeCmr+CmvuCmuTwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMTBEbXBoSjdJRnBpd3RpaU4xemNjUm1Kc2ROZzJZVFZsL3ZpZXc/dXNwPWRyaXZlX2xpbmsiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6c8L3N0cm9uZz48L2E+PC9wPg0KDQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmVnb3ZjbG91ZC5nb3YuYmQvaW5kZXgucGhwL3MvRG1Qd09sbnJxNjVDcUxLIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KeoPC9zdHJvbmc+PC9hPjwvcD4NCgkJCTwvdGQ+DQoJCTwvdHI+DQoJCTx0cj4NCgkJCTx0ZCBzdHlsZT0id2lkdGg6NTZweCI+DQoJCQk8cD7gp6fgp6w8L3A+DQoJCQk8L3RkPg0KCQkJPHRkIHN0eWxlPSJ3aWR0aDoyMzdweCI+DQoJCQk8cD7gppXgpr7gppPgp5/gpr7gpofgpqbgp4HgprIg4Kay4KeB4KaX4Ka+4Kak4Ka/4KayIOCmhuCmsOCmvuCmrOCmv+Cnn+CnjeCmr+CmvuCmuTwvcD4NCgkJCTwvdGQ+DQoJCQk8dGQgc3R5bGU9IndpZHRoOjIwMXB4Ij4NCgkJCTxwPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMVJBNjdndVN0WHplZWM1LVNTY0Uyc2NDMnRWSnduMDhqL3ZpZXc/dXNwPWRyaXZlX2xpbmsiPjxzdHJvbmc+4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmsuCmv+CmguCmlS3gp6c8L3N0cm9uZz48L2E+PC9wPg0KDQoJCQk8cD48YSBocmVmPSJodHRwczovL2RyaXZlLmVnb3ZjbG91ZC5nb3YuYmQvaW5kZXgucGhwL3MvTmxRQ1hpZDNoUnFRcGswIj48c3Ryb25nPuCmoeCmvuCmieCmqOCmsuCni+CmoSDgprLgpr/gpoLgppUt4KeoPC9zdHJvbmc+PC9hPjwvcD4NCgkJCTwvdGQ+DQoJCTwvdHI+DQoJPC90Ym9keT4NCjwvdGFibGU+DQo="><table border="" cellpadding="0" cellspacing="0"> <tbody> <tr> <td style="width:56px"> <p><strong>ক্রমিক</strong></p> </td> <td style="width:237px"> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>পাঠ্যপুস্তকের</strong>&nbsp;<strong>নাম</strong></p> </td> <td style="width:201px"> <p><strong>ডাউনলোড</strong></p> </td> </tr> <tr> <td style="width:56px"> <p>১</p> </td> <td style="width:237px"> <p>চারুপাঠ</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1wuzaKieUBLCip_XrQITyjc1GrldoujeQ/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/lPo1tqaAO4ymptp"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>২</p> </td> <td style="width:237px"> <p>English For Today</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1fW4DrixN5T6D6tyaPH_ukwGtd0nUSsWW/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/7wsk0fSbZAL5pc8"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>৩</p> </td> <td style="width:237px"> <p>English Grammar and Composition</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1m6PqA8vqD-mUVVqzqlKdaDSQHsA0bfYb/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/VwyAzLFUAvTsKlm"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>৪</p> </td> <td style="width:237px"> <p>গণিত</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1BgtvHGIKb9IstXkn_OziI0ECQ76s4W-b/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/BO0CfXBUp0cAlVg"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>৫</p> </td> <td style="width:237px"> <p>বিজ্ঞান</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1kwlR7XZyuhKBv1vuYREIYkTPPFETtM_e/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/IjllSFmdbC4eTWj"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>৬</p> </td> <td style="width:237px"> <p>বাংলাদেশ ও বিশ্বপরিচয়</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1xhYuwb3edu8bLBxsfCn1foloMUArOYva/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/gNRKAjUxYvruoff"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>৭</p> </td> <td style="width:237px"> <p>তথ্য ও যোগাযোগ প্রযুক্তি</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1e41toBjC48CRIeuN3CJ2B0e4lQzmzthM/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/E6UH4FfJa3wCyxa"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>৮</p> </td> <td style="width:237px"> <p>কর্ম ও জীবনমুখী শিক্ষা</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1lHtDGleEErb82E6A1dy2W4tO9iduVfXz/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/RgMxxgqR0C9pQHD"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>৯</p> </td> <td style="width:237px"> <p>কৃষিশিক্ষা</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1hE5MPU8Zx2YvdAhBlUpksTekrky6-Gd3/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/dmhmHS5ugh8SZ0d"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>১০</p> </td> <td style="width:237px"> <p>গার্হস্থ্য বিজ্ঞান</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1K74HUUVPok1vpoUAFvtB9v70SsS4ULMn/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/AtZI8IVcWx7otkU"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>১১</p> </td> <td style="width:237px"> <p>শারীরিক শিক্ষা ও স্বাস্থ্য</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1qOIvmKcAUEeK_hfqwMTLaJJJopbsjoHx/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/XtNXV6u6H2Y4uNW"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>১২</p> </td> <td style="width:237px"> <p>বাংলা ব্যাকরণ ও নির্মিতি</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1qh_BUX2LMauZZJKFawbsMELTbE7CtPmm/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/AWc1ZRdQJlzEvRU"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>১৩</p> </td> <td style="width:237px"> <p>কুরআন মাজিদ ও তাজভিদ</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1EZHcarOGPxX8zotAh-zuNhXa9HH8XrYk/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/vUKgSw926lbhP8R"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>১৪</p> </td> <td style="width:237px"> <p>আকাইদ ও ফিকহ</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1RexfMFVRKH4R8S3J44J2W9PMkX90Jdvx/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/aB2TdsLSqWwqSVR"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>১৫</p> </td> <td style="width:237px"> <p>আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/10DmphJ7IFpiwtiiN1zccRmJsdNg2YTVl/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/DmPwOlnrq65CqLK"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> <tr> <td style="width:56px"> <p>১৬</p> </td> <td style="width:237px"> <p>কাওয়াইদুল লুগাতিল আরাবিয়্যাহ</p> </td> <td style="width:201px"> <p><a href="https://drive.google.com/file/d/1RA67guStXzeec5-SScE2scC2tVJwn08j/view?usp=drive_link"><strong>ডাউনলোড লিংক-১</strong></a></p> <p><a href="https://drive.egovcloud.gov.bd/index.php/s/NlQCXid3hRqQpk0"><strong>ডাউনলোড লিংক-২</strong></a></p> </td> </tr> </tbody> </table> </rt-renderer> </div> </div> 
+        <section data-widget_type="widget" data-widget_name="SocialContentShareWidget" class="widget social-content-share-widget">
+    <div>
+        <p class="social-content-share-widget-title ">এই কনটেন্টটি শেয়ার করতে ক্লিক করুন</p>
+        <div class="social-content-share-widget-social-icons">
+            <a title="Facebook" class="social-content-share-widget-social-icons-link facebook-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-facebook-logo social-content-share-widget-fb-icon"></i>
+            </a>
+            <a title="X (Formerly Twitter)" class="social-content-share-widget-social-icons-link twitter-share" target="_blank" rel="noopener">
+                <i class="ph ph-x-logo social-content-share-widget-twitter-icon"></i>
+            </a>
+            <a title="WhatsApp" class="social-content-share-widget-social-icons-link whatsapp-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-whatsapp-logo social-content-share-widget-whatsapp-icon"></i>
+            </a>
+            <a title="LinkedIn" class="social-content-share-widget-social-icons-link linkedin-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-linkedin-logo social-content-share-widget-linkedin-icon"></i>
+            </a>
+            <a title="Viber" class="social-content-share-widget-social-icons-link viber-share" target="_blank" rel="noopener">
+                <!--<i class="ph-fill ph-chat-circle-text social-content-share-widget-viber-icon"></i>-->
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+                 <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                    transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+                     <path d="M 63.357 24.877 c -1.243 -1.147 -6.264 -4.792 -17.448 -4.841 c 0 0 -13.189 -0.796 -19.618 5.102 c -3.579 3.58 -4.838 8.818 -4.97 15.312 c -0.133 6.494 -0.305 18.664 11.426 21.964 h 0.011 l -0.007 5.035 c 0 0 -0.075 2.038 1.267 2.454 c 1.624 0.504 2.577 -1.045 4.127 -2.716 c 0.851 -0.917 2.026 -2.264 2.911 -3.293 c 8.023 0.675 14.194 -0.868 14.894 -1.096 c 1.62 -0.525 10.787 -1.7 12.277 -13.869 C 69.766 36.387 67.483 28.453 63.357 24.877 z M 56.614 52.131 c 0 0.005 -0.004 0.014 -0.004 0.019 c -0.517 0.896 -1.172 1.703 -1.943 2.392 c -0.009 0.004 -0.009 0.009 -0.017 0.013 c -0.669 0.559 -1.327 0.877 -1.973 0.954 c -0.095 0.017 -0.192 0.023 -0.288 0.018 c -0.285 0.003 -0.568 -0.041 -0.839 -0.129 l -0.021 -0.031 c -0.995 -0.281 -2.656 -0.983 -5.423 -2.509 c -1.601 -0.873 -3.125 -1.879 -4.556 -3.009 c -0.717 -0.566 -1.401 -1.173 -2.049 -1.817 l -0.069 -0.069 l -0.069 -0.069 l -0.069 -0.069 c -0.023 -0.022 -0.046 -0.046 -0.069 -0.069 c -0.644 -0.648 -1.251 -1.332 -1.817 -2.049 c -1.13 -1.431 -2.137 -2.954 -3.009 -4.555 c -1.526 -2.767 -2.228 -4.427 -2.509 -5.423 l -0.031 -0.021 c -0.088 -0.271 -0.131 -0.554 -0.128 -0.839 c -0.005 -0.096 0.001 -0.193 0.017 -0.288 c 0.081 -0.645 0.399 -1.303 0.955 -1.974 c 0.004 -0.008 0.009 -0.008 0.013 -0.017 c 0.689 -0.771 1.497 -1.426 2.392 -1.942 c 0.004 0 0.013 -0.004 0.019 -0.004 c 0.901 -0.469 1.754 -0.31 2.335 0.375 c 0.004 0.004 1.209 1.451 1.726 2.157 c 0.532 0.749 1.027 1.523 1.481 2.322 c 0.593 1.063 0.221 2.152 -0.361 2.601 l -1.174 0.933 c -0.593 0.479 -0.514 1.368 -0.514 1.368 s 1.739 6.583 8.238 8.242 c 0 0 0.889 0.075 1.368 -0.515 l 0.933 -1.174 c 0.45 -0.582 1.537 -0.954 2.601 -0.361 c 0.797 0.454 1.571 0.949 2.319 1.481 c 0.706 0.519 2.152 1.726 2.156 1.726 C 56.924 50.376 57.083 51.23 56.614 52.131 z M 51.238 35.889 c -1.316 -1.436 -3.119 -2.219 -5.511 -2.394 c -0.348 -0.026 -0.61 -0.329 -0.584 -0.677 c 0.026 -0.348 0.33 -0.611 0.677 -0.584 c 2.692 0.197 4.829 1.14 6.352 2.802 c 1.526 1.668 2.273 3.765 2.219 6.233 c -0.007 0.344 -0.289 0.619 -0.632 0.619 c -0.004 0 -0.009 0 -0.014 0 c -0.349 -0.008 -0.626 -0.297 -0.619 -0.646 C 53.173 39.078 52.556 37.328 51.238 35.889 z M 51.145 40.135 c 0.017 0.349 -0.252 0.646 -0.601 0.663 c -0.011 0.001 -0.021 0.001 -0.032 0.001 c -0.335 0 -0.614 -0.263 -0.631 -0.601 c -0.107 -2.149 -1.117 -3.201 -3.181 -3.308 c -0.349 -0.018 -0.617 -0.316 -0.599 -0.664 c 0.018 -0.349 0.314 -0.618 0.664 -0.599 C 49.491 35.769 51.006 37.327 51.145 40.135 z M 57.086 43.186 c -0.002 0 -0.003 0 -0.005 0 c -0.347 0 -0.63 -0.28 -0.632 -0.628 c -0.029 -3.816 -1.174 -6.853 -3.404 -9.027 c -2.234 -2.178 -5.057 -3.294 -8.39 -3.317 c -0.349 -0.002 -0.631 -0.288 -0.628 -0.637 c 0.002 -0.348 0.285 -0.628 0.632 -0.628 c 0.002 0 0.003 0 0.004 0 c 3.672 0.026 6.789 1.262 9.264 3.676 c 2.481 2.418 3.754 5.757 3.786 9.923 C 57.715 42.898 57.434 43.183 57.086 43.186 z"
+                           style="stroke: none;stroke-width: 1;stroke-dasharray: none;stroke-linecap: butt;stroke-linejoin: miter;stroke-miterlimit: 10;fill:#665cac;fill-rule: nonzero;opacity:1;"
+                           transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                 </g>
+             </svg>
+            </a>
+            <a title="Copy Link" class="social-content-share-widget-social-icons-link link-share" target="_blank" rel="noopener" onclick="window.copyToClipboard(location.href);">
+                <i class="ph ph-link social-content-share-widget-link-icon"></i>
+            </a>
+            <a title="Messenger" class="social-content-share-widget-social-icons-link messenger-share" target="_blank" rel="noopener">
+                <i class="ph-fill ph-messenger-logo social-content-share-widget-messenger-icon"></i>
+            </a>
+        </div>
+    </div>
+    <div>
+        <div
+  class="widget eps-opinion-popup-widget"
+  data-widget="EParticipationOpinionPopupWidget"
+>
+  <!-- Trigger Button -->
+  <div class="eps-opinion-trigger-wrapper">
+    <p class="social-content-share-widget-title ">&nbsp;</p>
+    <!-- Removed ID to support multiple instances -->
+    <button type="button" class="eps-opinion-btn">
+      <span></span>
+      <span>আপনার মতামত প্রদান করুন</span>
+      <i class="ph ph-chat-circle-text"></i>
+    </button>
+  </div>
+
+  <!-- Modal -->
+  <!-- Removed ID to support multiple instances -->
+  <div class="eps-opinion-modal" aria-hidden="true">
+    <div class="eps-opinion-modal-overlay"></div>
+    <div class="eps-opinion-modal-container">
+      <div class="eps-opinion-modal-header">
+        <h3>আপনার মতামত প্রদান করুন</h3>
+        <button type="button" class="eps-opinion-close" aria-label="Close">
+          <i class="ph ph-x"></i>
+        </button>
+      </div>
+
+      <div class="eps-opinion-modal-body">
+        <div
+  class="widget eps-opinion-form-widget"
+  data-widget="EParticipationOpinionFormWidget"
+>
+  <div class="unique-category-container">
+    <form id="opinionForm" class="opinion-form" enctype="multipart/form-data">
+      <!-- We allow an external hidden input or radio group to set this, but default here -->
+      <input type="hidden" name="opinionType" value="suggestion" />
+
+      <div>
+        <label class="form-label">আপনার নাম</label>
+        <input
+          name="name"
+          type="text"
+          placeholder="আপনার নাম লিখুন"
+        />
+        <small class="error-message" hidden>
+          নাম অবশ্যই দিতে হবে
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">আপনার ইমেইল</label>
+        <input
+          name="email"
+          type="email"
+          placeholder="আপনার ইমেইল লিখুন"
+        />
+        <small class="error-message" hidden>
+          সঠিক ইমেইল দিন
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">আপনার যোগাযোগ নম্বর</label>
+        <input
+          name="phone"
+          type="tel"
+          placeholder="আপনার যোগাযোগ নম্বর লিখুন"
+        />
+        <small class="error-message" hidden>
+          সঠিক ফোন নম্বর দিন (যেমন 017XXXXXXXX)
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label">আপনার মতামত</label>
+        <textarea name="body" id="popupEditor"></textarea>
+        <small class="error-message" hidden>
+          মতামত কমপক্ষে ২০ অক্ষরের হতে হবে
+        </small>
+      </div>
+
+      <div>
+        <label class="form-label"
+          >Attachment (jpg, jpeg, png, pdf • max 2 MB)</label
+        >
+        <input name="attachment" type="file" accept=".jpg,.jpeg,.png,.pdf" />
+        <small class="error-message" hidden>
+          Invalid file. Allowed: JPG, JPEG, PNG, PDF up to 2MB
+        </small>
+      </div>
+
+      <div>
+        <button type="submit" id="popupSubmitBtn">জমা দিন</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Ensure CKEditor is available if not loaded globally -->
+  <script src="https://cdn.ckeditor.com/ckeditor5/41.4.2/classic/ckeditor.js"></script>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+</section>
+
+    <div data-widget_type="widget" data-widget_name="AccessibilityWidget" class="widget accessibility-widget"> <div class="accessibility-float fab-icon" id="accessibility-btn" title="এক্সেসিবিলিটি"> <i class="ph ph-wheelchair-motion"></i> </div> <div class="accessibility-card" id="accessibility-card"> <h3 id="accessibility-card-title" tabindex="0">এক্সেসিবিলিটি</h3> <div id="accessibility-close" tabindex="0" title="Close"> <icon class="ph ph-x-circle"></icon> </div> <div class="item"> <button id="font-increase">ফন্ট বৃদ্ধি</button> <button id="font-decrease">ফন্ট হ্রাস</button> </div> <div class="item"> <input type="checkbox" id="monochrome" title="মনোক্রোম" /> <label for="monochrome">মনোক্রোম</label> </div> <div class="item"> <input type="checkbox" id="inverted" title="ইনভার্ট" /> <label for="inverted">ইনভার্ট</label> </div> <div class="item"> <input type="checkbox" id="bigCursor" title="বড় কার্সর" /> <label for="bigCursor">বড় কার্সর</label> </div> <div class="item"> <input type="checkbox" id="highlightLinks" title="লিঙ্ক হাইলাইট" /> <label for="highlightLinks">লিঙ্ক হাইলাইট</label> </div> <div class="item"> <input type="checkbox" id="highlightHeadings" title="শিরোনাম হাইলাইট" /> <label for="highlightHeadings">শিরোনাম হাইলাইট</label> </div> <div class="item"> <input type="checkbox" id="readingGuideCheckbox" title="পড়ার গাইড" /> <label for="readingGuideCheckbox">পড়ার গাইড</label> </div> <div class="item"> <button class="accessibility-reset">রিসেট</button> </div> <a class='screen-reader' target="_blank" rel="noreferrer" href="https://www.nvaccess.org/files/nvda/releases/2020.4/nvda_2020.4.exe">স্ক্রিন রিডার ডাউনলোড করুন</a> </div> <!-- TODO: [naeemur] add some more tab navigate options --> <div class="tab-menu"> <a href="#main-content" class="skip-link">কন্টেন্টে চলে যান</a> <a href="#accessibility-card-title" class="skip-link menu-href">এক্সেসিবিলিটি মেনুতে যান</a> </div> </div> 
+<div data-widget_type="widget" data-widget_name="GoToTopWidget" class="widget go-to-top-widget"> <div class="go-to-top-float x-fab-icon" id="go-to-top-btn" title="উপরে যান"> <i class="ph ph-caret-up"></i> </div> </div> 
+</div></div>
+  </div>
+  <div class="footer"><div data-section_type="footer" class="droppable">
+         <footer data-widget_type="widget" data-widget_name="FooterWidget" class="widget footer-widget"> <div class="footer-widget-image"></div> <div class="footer-body "> <div> <ul class="left-ul"> <li class="left-ul-list"> <a class="footer-link" href="/views/sitemap">সাইট-ম্যাপ</a> </li> </ul> <div class="site-update-block"> <p> সাইটটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ১ মার্চ, ২০২৬ এ ১০:২৪:১৮ </p> </div> </div> <div class="text-xs"> <p> পরিকল্পনা এবং বাস্তবায়ন: মন্ত্রিপরিষদ বিভাগ, এটুআই, বিসিসি, ডিওআইসিটি ও বেসিস। </p> <div class="technical-support-block "> <p class="technical-support-text">কারিগরি সহায়তা</p> <img class="technical-support-image" data-src="https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/undefined" src="/site-assets/images/technical-support.svg" alt="np-logo-set" onerror="this.onerror=null; this.src='/site-assets/images/technical-support.svg';" /> </div> </div> </div> </footer> 
+    </div></div>
+</div>
+<script>const _window=window; const _document=document;</script>
+<script src="/site-assets/js/index.js"></script>
+<script src="/widget-assets/js/HeaderWidget"></script>
+<script src="/widget-assets/js/OfficeFindThreeWidget"></script>
+<script src="/widget-assets/js/GlobalSearchWidget"></script>
+<script src="/widget-assets/js/LanguageSwitcherWidget"></script>
+<script src="/widget-assets/js/BannerSliderImageWidget"></script>
+<script src="/widget-assets/js/MenusExpandableWidget"></script>
+<script src="/widget-assets/js/MenusWidget"></script>
+<script src="/widget-assets/js/SocialContentShareWidget"></script>
+<script src="/widget-assets/js/EParticipationOpinionPopupWidget"></script>
+<script src="/widget-assets/js/EParticipationOpinionFormWidget"></script>
+<script src="/widget-assets/js/ContentViewerWidget"></script>
+<script src="/widget-assets/js/PrintWidget"></script>
+<script src="/widget-assets/js/AccessibilityWidget"></script>
+<script src="/widget-assets/js/GoToTopWidget"></script>
+<script src="/widget-assets/js/TitleWithImageContentWidget"></script>
+<script src="/widget-assets/js/ContentDetailsWidget"></script>
+<script src="/widget-assets/js/FooterWidget"></script>
+
+<script src="/assets/js/index.js"></script>
+</body>
+</html>
