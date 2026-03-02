@@ -1,0 +1,220 @@
+{
+  "generated_at_utc": "2026-03-02T04:06:18.215347+00:00",
+  "summary": {
+    "total_html_files": 245,
+    "files_with_widget": 245,
+    "files_with_extracted_rows": 245,
+    "files_with_download_links": 243,
+    "rows_total": 3347,
+    "rows_with_links": 3209,
+    "total_records": 3347,
+    "total_unique_links": 4267
+  },
+  "sample_first_5_records": [
+    {
+      "source_file": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+      "source_canonical_url": "http://nctb.gov.bd/pages/static-pages/6922dbc9933eb65569e0c897",
+      "source_page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+      "source_table_index": 1,
+      "source_row_index": 1,
+      "year": "2017",
+      "year_hint": null,
+      "level": null,
+      "class": null,
+      "book_name": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "subject": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "page_version_hint": null,
+      "serial": "",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EERFpYaWRRZUVBSTg/view",
+          "source": "google_drive",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "language_version": "bangla",
+          "anchor_text": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+          "is_probable_download": true
+        },
+        {
+          "url": "http://drive.google.com/file/d/1ir-gb9yUqC0DUYVZ07nYqtibxDQeKF3h/view?usp=drive_link",
+          "source": "google_drive",
+          "column_header": "ডাউনলোড",
+          "language_version": "unknown",
+          "anchor_text": "",
+          "is_probable_download": true
+        }
+      ],
+      "other_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "row_text": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)"
+      }
+    },
+    {
+      "source_file": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+      "source_canonical_url": "http://nctb.gov.bd/pages/static-pages/6922dbc9933eb65569e0c897",
+      "source_page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+      "source_table_index": 1,
+      "source_row_index": 2,
+      "year": "2017",
+      "year_hint": null,
+      "level": null,
+      "class": null,
+      "book_name": "বাংলা ব্যকরণ ও নির্মিতি",
+      "subject": "বাংলা ব্যকরণ ও নির্মিতি",
+      "page_version_hint": null,
+      "serial": "",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EET3hKSUJqelE5LUk/view",
+          "source": "google_drive",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "language_version": "bangla",
+          "anchor_text": "বাংলা ব্যকরণ ও নির্মিতি",
+          "is_probable_download": true
+        },
+        {
+          "url": "http://drive.google.com/file/d/1DRe8vnJj-yQKCGOCJo3LWoos-fAy32IV/view?usp=drive_link",
+          "source": "google_drive",
+          "column_header": "ডাউনলোড",
+          "language_version": "unknown",
+          "anchor_text": "",
+          "is_probable_download": true
+        }
+      ],
+      "other_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "row_text": "বাংলা ব্যকরণ ও নির্মিতি"
+      }
+    },
+    {
+      "source_file": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+      "source_canonical_url": "http://nctb.gov.bd/pages/static-pages/6922dbc9933eb65569e0c897",
+      "source_page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+      "source_table_index": 1,
+      "source_row_index": 3,
+      "year": "2017",
+      "year_hint": null,
+      "level": null,
+      "class": null,
+      "book_name": "কৃষি শিক্ষা",
+      "subject": "কৃষি শিক্ষা",
+      "page_version_hint": null,
+      "serial": "",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEaVNYVDRJUGJPY2M/view",
+          "source": "google_drive",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "language_version": "unknown",
+          "anchor_text": "কৃষি শিক্ষা",
+          "is_probable_download": true
+        },
+        {
+          "url": "http://drive.google.com/file/d/1YTlqnGoW5QYluGEaQIXLzGW_-biBzjVg/view?usp=drive_link",
+          "source": "google_drive",
+          "column_header": "ডাউনলোড",
+          "language_version": "unknown",
+          "anchor_text": "",
+          "is_probable_download": true
+        }
+      ],
+      "other_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "row_text": "কৃষি শিক্ষা"
+      }
+    },
+    {
+      "source_file": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+      "source_canonical_url": "http://nctb.gov.bd/pages/static-pages/6922dbc9933eb65569e0c897",
+      "source_page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+      "source_table_index": 1,
+      "source_row_index": 4,
+      "year": "2017",
+      "year_hint": null,
+      "level": null,
+      "class": null,
+      "book_name": "গার্হস্থ্য বিজ্ঞান",
+      "subject": "গার্হস্থ্য বিজ্ঞান",
+      "page_version_hint": null,
+      "serial": "",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEdDl4MkZMYWxJMkU/view",
+          "source": "google_drive",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "language_version": "unknown",
+          "anchor_text": "গার্হস্থ্য বিজ্ঞান",
+          "is_probable_download": true
+        },
+        {
+          "url": "http://drive.google.com/file/d/1kL0gKSBxp3JlmGLIgNWQpVi1krEk3M-w/view?usp=drive_link",
+          "source": "google_drive",
+          "column_header": "ডাউনলোড",
+          "language_version": "unknown",
+          "anchor_text": "",
+          "is_probable_download": true
+        }
+      ],
+      "other_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "row_text": "গার্হস্থ্য বিজ্ঞান"
+      }
+    },
+    {
+      "source_file": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+      "source_canonical_url": "http://nctb.gov.bd/pages/static-pages/6922dbc9933eb65569e0c897",
+      "source_page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+      "source_table_index": 1,
+      "source_row_index": 5,
+      "year": "2017",
+      "year_hint": null,
+      "level": null,
+      "class": null,
+      "book_name": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "subject": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "page_version_hint": null,
+      "serial": "",
+      "download_links": [
+        {
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEUDdUTlNrLWlSTnc/view",
+          "source": "google_drive",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "language_version": "unknown",
+          "anchor_text": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+          "is_probable_download": true
+        },
+        {
+          "url": "http://drive.google.com/file/d/1iQolC-ZDoHdwZjXdpF02fsGHB45qyrIx/view?usp=drive_link",
+          "source": "google_drive",
+          "column_header": "ডাউনলোড",
+          "language_version": "unknown",
+          "anchor_text": "",
+          "is_probable_download": true
+        }
+      ],
+      "other_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "row_text": "শারীরিক শিক্ষা ও স্বাস্থ্য"
+      }
+    }
+  ],
+  "notes": [
+    "Rows are extracted from content tables inside title-with-image-content-widget.",
+    "Non-content navigation menu links are ignored.",
+    "Rows without direct links are preserved when they are part of textbook tables."
+  ]
+}

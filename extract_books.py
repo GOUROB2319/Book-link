@@ -11,6 +11,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(r"c:\Users\GourobSaha\OneDrive - Gourob Saha\Downloads\Book-link")
 
 BN_DIGITS = str.maketrans("০১২৩৪৫৬৭৮৯", "0123456789")
+BASE_URL = "https://nctb.gov.bd"
 
 
 def norm_space(text: str) -> str:
@@ -30,18 +31,21 @@ def extract_year_label(filename: str) -> str:
 
 def infer_stream(filename: str) -> str:
     keys = [
-        "উচ্চ মাধ্যমিক",
-        "মাধ্যমিক",
-        "প্রাথমিক",
-        "দাখিল",
-        "কারিগরি",
-        "ইবতেদায়ি",
-        "ক্ষুদ্র নৃ-গোষ্ঠী",
-        "প্রাক-প্রাথমিক",
+        ("উচ্চ মাধ্যমিক", "উচ্চ মাধ্যমিক"),
+        ("মাধ্যমিক", "মাধ্যমিক"),
+        ("প্রাথমিক", "প্রাথমিক"),
+        ("দাখিল", "দাখিল"),
+        ("কারিগরি", "কারিগরি"),
+        ("ইবতেদায়ি", "ইবতেদায়ি"),
+        ("ক্ষুদ্র নৃ-গোষ্ঠী", "ক্ষুদ্র নৃ-গোষ্ঠী"),
+        ("ক্ষুদ্র নৃগোষ্ঠি", "ক্ষুদ্র নৃ-গোষ্ঠী"),
+        ("ক্ষুদ্র নৃগোষ্ঠির", "ক্ষুদ্র নৃ-গোষ্ঠী"),
+        ("প্রাক-প্রাথমিক", "প্রাক-প্রাথমিক"),
+        ("প্রাক প্রাথমিক", "প্রাক-প্রাথমিক"),
     ]
-    for k in keys:
-        if k in filename:
-            return k
+    for key, normalized in keys:
+        if key in filename:
+            return normalized
     return "unknown"
 
 
@@ -49,8 +53,9 @@ def infer_class(filename: str, title: str) -> str:
     source = f"{filename} {title}"
     patterns = [
         r"(প্রাক-প্রাথমিক)\s+স্তর",
+        r"(প্রাক প্রাথমিক)\s+স্তর",
         r"(প্রথম|দ্বিতীয়|তৃতীয়|চতুর্থ|পঞ্চম|ষষ্ঠ|সপ্তম|অষ্টম|নবম-দশম|একাদশ-দ্বাদশ)\s+শ্রেণির",
-        r"([০-৯]+ম)\s+শ্রেণির",
+        r"([০-৯]+(?:ম|য়|ষ্ঠ|র্থ|তম))\s+শ্রেণির",
         r"(নবম-দশম)\s+শ্রেণির",
         r"(একাদশ-দ্বাদশ)\s+শ্রেণির",
     ]
@@ -125,8 +130,21 @@ def parse_serial(text: str) -> int | None:
     return int(m.group()) if m else None
 
 
+def normalize_url(url: str) -> str:
+    u = norm_space(url)
+    if not u:
+        return u
+    if u.startswith("//"):
+        return "https:" + u
+    if u.startswith("/"):
+        return BASE_URL + u
+    if u.startswith("www."):
+        return "https://" + u
+    return u
+
+
 def analyze_url(url: str) -> tuple[str | None, bool]:
-    parsed = urlparse(url)
+    parsed = urlparse(normalize_url(url))
     if parsed.scheme in {"http", "https"} and parsed.netloc and "." in parsed.netloc:
         return parsed.netloc, False
     return None, True
@@ -180,7 +198,7 @@ def extract_books_from_file(path: Path) -> tuple[list[dict], dict]:
                 anchors = cell.find_all("a")
                 links = []
                 for a in anchors:
-                    href = norm_space(a.get("href", ""))
+                    href = normalize_url(a.get("href", ""))
                     ltxt = norm_space(a.get_text(" ", strip=True))
                     if href:
                         links.append({"url": href, "link_text": ltxt})

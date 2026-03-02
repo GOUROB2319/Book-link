@@ -1,0 +1,26 @@
+{
+  "audit_date": "2026-03-02",
+  "source_json": "nctb_2021_all_books_links.json",
+  "clean_json": "nctb_2021_all_books_links_clean.json",
+  "source_files_count": 25,
+  "book_records_count": 346,
+  "original_link_entries": 477,
+  "cleaned_link_entries": 477,
+  "removed_duplicate_link_entries": 0,
+  "direct_book_link_entries": 354,
+  "navigation_page_link_entries": 0,
+  "missing_url_entries_unique": 0,
+  "missing_url_details": [],
+  "invalid_url_entries": 0,
+  "invalid_url_details": [],
+  "live_check": {
+    "unique_urls_checked": 431,
+    "ok_urls": 430,
+    "failed_urls": 1,
+    "status_breakdown": {
+      "200": 430,
+      "404": 1
+    },
+    "nctb_tls_bypass_success_count": 0
+  }
+}

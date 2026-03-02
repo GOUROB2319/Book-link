@@ -1,0 +1,5225 @@
+{
+  "metadata": {
+    "generated_from": "Local HTML files provided by user",
+    "source_directory": "2017",
+    "generated_at": "2026-03-02",
+    "total_source_files": 14,
+    "total_book_records": 101,
+    "total_download_link_entries": 147,
+    "missing_url_entries": 0,
+    "link_hosts_breakdown": {
+      "drive.google.com": 137,
+      "invalid": 10
+    },
+    "cleaning": {
+      "cleaned_on": "2026-03-02",
+      "original_link_entries": 147,
+      "cleaned_link_entries": 147,
+      "removed_duplicate_link_entries": 0,
+      "direct_book_link_entries": 115,
+      "navigation_page_link_entries": 0
+    }
+  },
+  "source_files": [
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "অষ্টম",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 8
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 7
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 7
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 7
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 7
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "দ্বিতীয়",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 3
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "দ্বিতীয়",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 2
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 14
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 3
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 5
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "প্রথম",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 3
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "প্রথম",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 2
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 16
+    },
+    {
+      "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+      "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "tables_found": 1,
+      "tables_used": 1,
+      "records_found": 17
+    }
+  ],
+  "books": [
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৯:০৫ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "অষ্টম",
+      "serial": null,
+      "book_name_bn": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "book_name_en": null,
+      "subject": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EERFpYaWRRZUVBSTg/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "ডাউনলোড",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1ir-gb9yUqC0DUYVZ07nYqtibxDQeKF3h/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "raw_cells": [
+          "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৯:০৫ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "অষ্টম",
+      "serial": null,
+      "book_name_bn": "বাংলা ব্যকরণ ও নির্মিতি",
+      "book_name_en": null,
+      "subject": "বাংলা ব্যকরণ ও নির্মিতি",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "বাংলা ব্যকরণ ও নির্মিতি",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EET3hKSUJqelE5LUk/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "ডাউনলোড",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1DRe8vnJj-yQKCGOCJo3LWoos-fAy32IV/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "raw_cells": [
+          "বাংলা ব্যকরণ ও নির্মিতি",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৯:০৫ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "অষ্টম",
+      "serial": null,
+      "book_name_bn": "কৃষি শিক্ষা",
+      "book_name_en": null,
+      "subject": "কৃষি শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "কৃষি শিক্ষা",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEaVNYVDRJUGJPY2M/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "ডাউনলোড",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1YTlqnGoW5QYluGEaQIXLzGW_-biBzjVg/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "raw_cells": [
+          "কৃষি শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৯:০৫ PM",
+        "table_index": 1,
+        "row_index": 4
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "অষ্টম",
+      "serial": null,
+      "book_name_bn": "গার্হস্থ্য বিজ্ঞান",
+      "book_name_en": null,
+      "subject": "গার্হস্থ্য বিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "গার্হস্থ্য বিজ্ঞান",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEdDl4MkZMYWxJMkU/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "ডাউনলোড",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1kL0gKSBxp3JlmGLIgNWQpVi1krEk3M-w/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "raw_cells": [
+          "গার্হস্থ্য বিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৯:০৫ PM",
+        "table_index": 1,
+        "row_index": 5
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "অষ্টম",
+      "serial": null,
+      "book_name_bn": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "book_name_en": null,
+      "subject": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEUDdUTlNrLWlSTnc/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "ডাউনলোড",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1iQolC-ZDoHdwZjXdpF02fsGHB45qyrIx/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "raw_cells": [
+          "শারীরিক শিক্ষা ও স্বাস্থ্য",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৯:০৫ PM",
+        "table_index": 1,
+        "row_index": 6
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "অষ্টম",
+      "serial": null,
+      "book_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "book_name_en": null,
+      "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "তথ্য ও যোগাযোগ প্রযুক্তি",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEcURiWGdDRjd2NXc/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "ডাউনলোড",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1GinOXG_GkKqulCZHHRhPnzSigqQ6BLXL/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "raw_cells": [
+          "তথ্য ও যোগাযোগ প্রযুক্তি",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৯:০৫ PM",
+        "table_index": 1,
+        "row_index": 7
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "অষ্টম",
+      "serial": null,
+      "book_name_bn": "কর্ম ও জীবনমুকী শিক্ষা",
+      "book_name_en": null,
+      "subject": "কর্ম ও জীবনমুকী শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "কর্ম ও জীবনমুকী শিক্ষা",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEVXI1TEVrTEYtMkE/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "ডাউনলোড",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1j1ap4ESpD_KxoE758nPrf8deZzm9UYjt/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "raw_cells": [
+          "কর্ম ও জীবনমুকী শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৯:০৫ PM",
+        "table_index": 1,
+        "row_index": 8
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "অষ্টম",
+      "serial": null,
+      "book_name_bn": "চারু ও কারুকলা",
+      "book_name_en": null,
+      "subject": "চারু ও কারুকলা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "চারু ও কারুকলা",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEMnRDRFpWUkl0Nk0/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "ডাউনলোড",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1wpAUVH5N6Wke_hIj_Ydp1TFo9Wxr4Bx9/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "ডাউনলোড"
+        ],
+        "raw_cells": [
+          "চারু ও কারুকলা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৫ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1v2kkhz7FK0IdRdligvUsLuyQmNSkd9_9/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৫ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 2,
+      "book_name_bn": "প্রাথমিক গণিত",
+      "book_name_en": null,
+      "subject": "প্রাথমিক গণিত",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1rXU60rCkpTXK-_3B93YTVzG46-IUmtdI/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "২।",
+          "প্রাথমিক গণিত",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৫ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 3,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1ffjwhG3lXIuUaANlD4dhMYNpANkGywk6/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৫ PM",
+        "table_index": 1,
+        "row_index": 4
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 4,
+      "book_name_bn": "প্রাথমিক বিজ্ঞান",
+      "book_name_en": null,
+      "subject": "প্রাথমিক বিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1v6Xm33LGVtSR031f7KwPECrziqNlkmTF/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৪।",
+          "প্রাথমিক বিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৫ PM",
+        "table_index": 1,
+        "row_index": 5
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 5,
+      "book_name_bn": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "book_name_en": null,
+      "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1ohYqrb2Nj_HPaNSDPquQZMJyhp3T19bQ/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৫।",
+          "বাংলাদেশ ও বিশ্বপরিচয়",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৫ PM",
+        "table_index": 1,
+        "row_index": 6
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 6,
+      "book_name_bn": "ইসলাম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "ইসলাম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1iPSdVAVYErtJ-C6GyXR8SobDStytQCbc/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৬।",
+          "ইসলাম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৫ PM",
+        "table_index": 1,
+        "row_index": 7
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 7,
+      "book_name_bn": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1ZzC87zXFnvL1BLqRfysekSnM6U0O5RCn/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৭।",
+          "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৭ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1v2kkhz7FK0IdRdligvUsLuyQmNSkd9_9/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৭ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 2,
+      "book_name_bn": "প্রাথমিক গণিত",
+      "book_name_en": null,
+      "subject": "প্রাথমিক গণিত",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1Fhvdrkh81oR8IpFQwk8ZYClHJm9K-xc_/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "২।",
+          "প্রাথমিক গণিত",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৭ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 3,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1ffjwhG3lXIuUaANlD4dhMYNpANkGywk6/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৭ PM",
+        "table_index": 1,
+        "row_index": 4
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 4,
+      "book_name_bn": "ইসলাম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "ইসলাম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1qg06gxaGYyg9qAgGQnbK3MTKkNDlk_Jf/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৪।",
+          "ইসলাম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৭ PM",
+        "table_index": 1,
+        "row_index": 5
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 5,
+      "book_name_bn": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1t6lqJjSHdNwfshxXLwWDqgn0XTvH3Yn4/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৫।",
+          "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৭ PM",
+        "table_index": 1,
+        "row_index": 6
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 6,
+      "book_name_bn": "প্রাথমিক বিজ্ঞান",
+      "book_name_en": null,
+      "subject": "প্রাথমিক বিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1PzBzgA_vTYv7Q2J8TEVWxTzt0aEqeIMQ/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৬।",
+          "প্রাথমিক বিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের চতুর্থ শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৭ PM",
+        "table_index": 1,
+        "row_index": 7
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "চতুর্থ",
+      "serial": 7,
+      "book_name_bn": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "book_name_en": null,
+      "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1yXHkDytdXD_U3stx50iizAd8925djNCI/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৭।",
+          "বাংলাদেশ ও বিশ্বপরিচয়",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৬ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/17D7qJz4BaI095Lot1pd83q8FlvazXyR1/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৬ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 2,
+      "book_name_bn": "প্রাথমিক গণিত",
+      "book_name_en": null,
+      "subject": "প্রাথমিক গণিত",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1PLHQx9x42Fose7EoAU5FIkIVP44dQV6f/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "২।",
+          "প্রাথমিক গণিত",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৬ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 3,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1H3PMvh9vJpSb8C-uCfqzxSPO5hbmU7m_/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৬ PM",
+        "table_index": 1,
+        "row_index": 4
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 6,
+      "book_name_bn": "ইসলাম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "ইসলাম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EERThEbHk4UHZ6cnM",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৬।",
+          "ইসলাম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৬ PM",
+        "table_index": 1,
+        "row_index": 5
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 7,
+      "book_name_bn": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1GP14235GBxuwwkq3S5MjtZ7JyJhn0Q_w/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৭।",
+          "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৬ PM",
+        "table_index": 1,
+        "row_index": 6
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 8,
+      "book_name_bn": "খ্রিষ্টান ধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "খ্রিষ্টান ধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1zfbEgfgK_yEZcLk24FDEASDGgHS3GimB/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৮।",
+          "খ্রিষ্টান ধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৬ PM",
+        "table_index": 1,
+        "row_index": 7
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 9,
+      "book_name_bn": "বৌদ্ধ ধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "বৌদ্ধ ধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/16uPy9Opak9H9b18gjfTJ1vvcW_qDkUyD/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৯।",
+          "বৌদ্ধ ধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৫ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/17D7qJz4BaI095Lot1pd83q8FlvazXyR1/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৫ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 2,
+      "book_name_bn": "প্রাথমিক গণিত",
+      "book_name_en": null,
+      "subject": "প্রাথমিক গণিত",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "#",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "২।",
+          "প্রাথমিক গণিত",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৫ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 3,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1H3PMvh9vJpSb8C-uCfqzxSPO5hbmU7m_/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৫ PM",
+        "table_index": 1,
+        "row_index": 4
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 4,
+      "book_name_bn": "ইসলাম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "ইসলাম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1X7yjxsFiOoTv65qWSpDvRN2noFvA7Za9/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৪।",
+          "ইসলাম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৫ PM",
+        "table_index": 1,
+        "row_index": 5
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 5,
+      "book_name_bn": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1dAXfQ1_efFgESt4KRIDjGPo4HriWLVE9/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৫।",
+          "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৫ PM",
+        "table_index": 1,
+        "row_index": 6
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 6,
+      "book_name_bn": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1qPxfDV4qxnbShIJOzpbUHBpuvJbmMPrH/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৬।",
+          "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৫ PM",
+        "table_index": 1,
+        "row_index": 7
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "তৃতীয়",
+      "serial": 7,
+      "book_name_bn": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "book_name_en": null,
+      "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1ZhACUT6YLzT7vHfa8uJfZ8_-TlNV9oYA/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৭।",
+          "বাংলাদেশ ও বিশ্বপরিচয়",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৩৮ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "দ্বিতীয়",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1sSJ5MnTO5yQLCQtV2Wb6avNynwltl1lj/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৩৮ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "দ্বিতীয়",
+      "serial": 2,
+      "book_name_bn": "প্রাথমিক গণিত",
+      "book_name_en": null,
+      "subject": "প্রাথমিক গণিত",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/12HdqPVdsyhVHqiRbHhEnM8hHUIx6i62f/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "২।",
+          "প্রাথমিক গণিত",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৩৮ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "দ্বিতীয়",
+      "serial": 3,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1KD07ZYKehQ6zuYCroVkxFVCZrBAFpn0p/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৮ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "দ্বিতীয়",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1sSJ5MnTO5yQLCQtV2Wb6avNynwltl1lj/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৮ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "দ্বিতীয়",
+      "serial": 3,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1KD07ZYKehQ6zuYCroVkxFVCZrBAFpn0p/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 2,
+      "book_name_bn": "বাংলা সহপাঠ",
+      "book_name_en": null,
+      "subject": "বাংলা সহপাঠ",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1E_EBOIZnUw-yNpY4sUCpGAjQobHBNgAG/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "২।",
+          "বাংলা সহপাঠ",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 3,
+      "book_name_bn": "বাংলা ভাষার ব্যকরণ",
+      "book_name_en": null,
+      "subject": "বাংলা ভাষার ব্যকরণ",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1CaZzniK1XcsyTI3dyL9lzWYSBHGd6PNZ/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "৩।",
+          "বাংলা ভাষার ব্যকরণ",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 5
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 5,
+      "book_name_bn": "গণিত",
+      "book_name_en": null,
+      "subject": "গণিত",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/16oscA0tsdcMPgs8BLckD8glQAnwl_Fws/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "৫।",
+          "গণিত",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 6
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 6,
+      "book_name_bn": "চারু ও কারুকলা",
+      "book_name_en": null,
+      "subject": "চারু ও কারুকলা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/16ptR4cXSQOBSbcDdMZdJLd-9LJDTEj-3/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "৬।",
+          "চারু ও কারুকলা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 7
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 7,
+      "book_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "book_name_en": null,
+      "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1yM4ACSpgIZIbQLbDERgRSSlNwp4jkWE6/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "৭।",
+          "তথ্য ও যোগাযোগ প্রযুক্তি",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 8
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 8,
+      "book_name_bn": "ক্যারিয়ার এডুকেশন",
+      "book_name_en": null,
+      "subject": "ক্যারিয়ার এডুকেশন",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1YGf-XwvG1sdCxlxfuZ5iYJmk34_JJCft/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "৮।",
+          "ক্যারিয়ার এডুকেশন",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 10
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 10,
+      "book_name_bn": "পদার্থবিজ্ঞান",
+      "book_name_en": null,
+      "subject": "পদার্থবিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1GOwvuIS7n2t6yXs7kHOJmPCChiuZKW_m/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "১০",
+          "পদার্থবিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 11
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 11,
+      "book_name_bn": "রসায়ন",
+      "book_name_en": null,
+      "subject": "রসায়ন",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1xZCSbKJdZvZiMNlMO-qdegTUfw53WeSY/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "১১।",
+          "রসায়ন",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 12
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 12,
+      "book_name_bn": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+      "book_name_en": null,
+      "subject": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1fEtFJlDT9kjhMTzf-pj2X8CaLsJ1alXU/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "১২।",
+          "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 13
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 13,
+      "book_name_bn": "কৃষিশিক্ষা",
+      "book_name_en": null,
+      "subject": "কৃষিশিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1mQamYYP3xTNzLKr-l-Gm5Ui1wkVHgJNB/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "১৩।",
+          "কৃষিশিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 14
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 14,
+      "book_name_bn": "গার্হস্থ্য বিজ্ঞান",
+      "book_name_en": null,
+      "subject": "গার্হস্থ্য বিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "https://3",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "১৪।",
+          "গার্হস্থ্য বিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 15
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 15,
+      "book_name_bn": "পৌরনীতি ও নাগরিকতা",
+      "book_name_en": null,
+      "subject": "পৌরনীতি ও নাগরিকতা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1B80ZAVTVdX1kHKq7XSbr0sSX4Z_adIV7/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "১৫।",
+          "পৌরনীতি ও নাগরিকতা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 16
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 16,
+      "book_name_bn": "হিসাববিজ্ঞান",
+      "book_name_en": null,
+      "subject": "হিসাববিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1qiLxg4dYLcQ5x_GIA7SCy14REssM7KB_/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "১৬।",
+          "হিসাববিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বৃহস্পতিবার, ৩ আগস্ট, ২০২৩ এ ০৫:০৬ PM",
+        "table_index": 1,
+        "row_index": 17
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "unknown",
+      "serial": 17,
+      "book_name_bn": "ফিন্যান্স ও ব্যাংকিং",
+      "book_name_en": null,
+      "subject": "ফিন্যান্স ও ব্যাংকিং",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "bangla",
+          "column_header": "বাংলা ভার্সন",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1kmrYlp4v9PAUZrTGkapvls6hlQsJQ_QU/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক",
+          "পাঠ্যপুস্তকের নাম",
+          "বাংলা ভার্সন"
+        ],
+        "raw_cells": [
+          "১৭।",
+          "ফিন্যান্স ও ব্যাংকিং",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৫:০০ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1gD5rycd8oKQd_WgAXqO7xapneww2utga/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৫:০০ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "serial": 3,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/18uBcsT6EaqJ57iM8S1HiX7R8Zh8SDOlw/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৫:০০ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "serial": 5,
+      "book_name_bn": "প্রাথমিক বিজ্ঞান",
+      "book_name_en": null,
+      "subject": "প্রাথমিক বিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1wNdof-x5cnvhkivs2F9mNB52vi61Yzzz/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৫।",
+          "প্রাথমিক বিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৮ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1gD5rycd8oKQd_WgAXqO7xapneww2utga/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৮ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "serial": 2,
+      "book_name_bn": "প্রাথমিক গণিত",
+      "book_name_en": null,
+      "subject": "প্রাথমিক গণিত",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1mmIIU4sUarbDHQFxIbKIHF90xmYcp8ND/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "২।",
+          "প্রাথমিক গণিত",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৮ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "serial": 3,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/18uBcsT6EaqJ57iM8S1HiX7R8Zh8SDOlw/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৮ PM",
+        "table_index": 1,
+        "row_index": 4
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "serial": 4,
+      "book_name_bn": "ইসলাম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "ইসলাম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1YWMhpHH3Wffp_IxozJSJNxbk7t-qzqay/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৪।",
+          "ইসলাম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের পঞ্চম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪৮ PM",
+        "table_index": 1,
+        "row_index": 5
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "পঞ্চম",
+      "serial": 5,
+      "book_name_bn": "প্রাথমিক বিজ্ঞান",
+      "book_name_en": null,
+      "subject": "প্রাথমিক বিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1DWAyy9ffzbAqwoXhPEResCSQ0q__Xp4G/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৫।",
+          "প্রাথমিক বিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৩ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "প্রথম",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1iBJuNDh8j-NbkSbNiNuCqCxjb_sz_nrb/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৩ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "প্রথম",
+      "serial": 2,
+      "book_name_bn": "প্রাথমিক গণিত",
+      "book_name_en": null,
+      "subject": "প্রাথমিক গণিত",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1J4YiEIKjN2qD-MkXRR3q99jx5xr03v2y/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "২।",
+          "প্রাথমিক গণিত",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন).html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক (ইংরেজি ভার্সন)",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৫৩ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "প্রথম",
+      "serial": 3,
+      "book_name_bn": null,
+      "book_name_en": "English For Today",
+      "subject": "English For Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1kTW8nTinaHwYrZCAi5e_d9Ol4o1bGahX/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "English For Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪১ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "প্রথম",
+      "serial": 1,
+      "book_name_bn": "আমার বাংলা বই",
+      "book_name_en": null,
+      "subject": "আমার বাংলা বই",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1iBJuNDh8j-NbkSbNiNuCqCxjb_sz_nrb/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আমার বাংলা বই",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের প্রথম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৪১ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "প্রথম",
+      "serial": 2,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1kTW8nTinaHwYrZCAi5e_d9Ol4o1bGahX/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "২।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "book_name_en": null,
+      "subject": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEOUlUZnJScFgtdUU/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1CtYV58mw8AAgNWzHL_AOOCQ_kCVkiPQV/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "English for Today",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEZnkwbU16WWM4M00",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1INVhqAdK2q7UF_0TDF6nD9YBxpCf4DGb/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "বাংলা ব্যকরণ ও নির্মিতি",
+      "book_name_en": null,
+      "subject": "বাংলা ব্যকরণ ও নির্মিতি",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "বাংলা ব্যকরণ ও নির্মিতি",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EENkJOd3JZTkctRkE/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/11Ft-emlH6342ZHx2yRgNX5veoXDxH6-j/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "বাংলা ব্যকরণ ও নির্মিতি",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 4
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "কৃষি শিক্ষা",
+      "book_name_en": null,
+      "subject": "কৃষি শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "কৃষি শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EETXZSYjdzQkc3VEE",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1efNHR5XKnqanLO6zTWqmg60YmzWbem-p/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "কৃষি শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 5
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "গার্হস্থ্য বিজ্ঞান",
+      "book_name_en": null,
+      "subject": "গার্হস্থ্য বিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "গার্হস্থ্য বিজ্ঞান",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EENTI2Mmw1OHMwYXc",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/19JzEFBnnrtSvPmUeBjQozWArteCDk319/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "গার্হস্থ্য বিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 6
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "book_name_en": null,
+      "subject": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEMVpLWXViZGNYdVU",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1lxWviNujACfo66_k_0pCt9c8ADhEzPft/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "শারীরিক শিক্ষা ও স্বাস্থ্য",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 7
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "book_name_en": null,
+      "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "তথ্য ও যোগাযোগ প্রযুক্তি",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EELW9PUm1NN09IM2c",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1oTX4GKWx9wy2XIyS00JbPqR3cf1rNG5A/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "তথ্য ও যোগাযোগ প্রযুক্তি",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 8
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "কর্ম ও জীবনমুকী শিক্ষা",
+      "book_name_en": null,
+      "subject": "কর্ম ও জীবনমুকী শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "কর্ম ও জীবনমুকী শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEMmFDaWxNQTVscDQ",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1QOKmAh-u8DogEKy1ASCrL27NkCFycJwj/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "কর্ম ও জীবনমুকী শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 9
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEMDlreEI0WmVHZHM",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1hN9ZHkFGdclFbG62GiZhp2tmhWwA2Dz3/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 10
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "বিজ্ঞান",
+      "book_name_en": null,
+      "subject": "বিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "বিজ্ঞান",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EETXhYSHpBSVA0cmM",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1cU4TxyiP5JvWU86syrbYUPTM6Zj4w2xB/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "বিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 11
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "ইসলাম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "ইসলাম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "ইসলাম",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEcXZuYkJXVmpvZjA",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "ও নৈতিক শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEMDlreEI0WmVHZHM",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "",
+          "url": "#",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1xVbplPVXWoJI2xERVH3_Ceuz-K0Op9e-/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 4,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "ইসলাম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 12
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "বৌদ্ধধর্ম",
+          "url": "#",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "ও নৈতিক শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEMDlreEI0WmVHZHM",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "",
+          "url": "#",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1DItQvja72xgDGNC47JDT7Ps3mjTKD_-6/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 4,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 13
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "চারুপাঠ",
+      "book_name_en": null,
+      "subject": "চারুপাঠ",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "চারুপাঠ",
+          "url": "#",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1TdOyf_Y_VY9--f6w75JRXKO0xNCX4eXc/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "চারুপাঠ",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 14
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "হিন্দুধর্ম",
+          "url": "#",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "ও নৈতিক শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEMDlreEI0WmVHZHM",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "",
+          "url": "#",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEcmF0Vm1YZjJFdXc",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        }
+      ],
+      "download_link_count": 4,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 15
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "book_name_en": null,
+      "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "বাংলাদেশ ও বিশ্বপরিচয়",
+          "url": "#",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1XxfWquHXWcE7islpbXq7Iwi33DUlCNFF/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "বাংলাদেশ ও বিশ্বপরিচয়",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের ষষ্ঠ শ্রেণির বইয়ের তালিকা",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: বুধবার, ২ আগস্ট, ২০২৩ এ ০৮:৫৫ PM",
+        "table_index": 1,
+        "row_index": 16
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "ষষ্ঠ",
+      "serial": null,
+      "book_name_bn": "ক্ষুদ্র ও নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "book_name_en": null,
+      "subject": "ক্ষুদ্র ও নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 0,
+          "label": "ক্ষুদ্র ও নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEd0hva3FnY1kwN1k",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ কপি",
+          "column_index": 1,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1rkf7lfies6fyOBB39So3VrVFivu_u9HP/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ কপি"
+        ],
+        "raw_cells": [
+          "ক্ষুদ্র ও নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 1
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 1,
+      "book_name_bn": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "book_name_en": null,
+      "subject": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEVi1EVzV5VDhmMW8/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1u6GScE-J8CcNrcpmuQBwjs8a6fmPb4-E/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১।",
+          "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 2
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 2,
+      "book_name_bn": null,
+      "book_name_en": "English for Today",
+      "subject": "English for Today",
+      "version_or_edition": null,
+      "language_versions": [
+        "english"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "English for Today",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEdlV5d3lLU05jbzQ",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1HjHIAPcYRG1VSX8f5IOv1ETK-1vBMoxP/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "২।",
+          "English for Today",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 3
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 3,
+      "book_name_bn": "সপ্তবর্ণা",
+      "book_name_en": null,
+      "subject": "সপ্তবর্ণা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "সপ্তবর্ণা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEM2swOWpBbXFxeUk",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1QQ9PC2oMKMas_4ZLdmc_yoAlXdW5Tc19/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৩।",
+          "সপ্তবর্ণা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 4
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 4,
+      "book_name_bn": "বাংলা ব্যকরণ ও নির্মিতি",
+      "book_name_en": null,
+      "subject": "বাংলা ব্যকরণ ও নির্মিতি",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "বাংলা ব্যকরণ ও নির্মিতি",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEZ3dkXzI0bXpzS1k/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1LL3mrNy4DS3RbxB770D6P80ByNDmcCYg/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৪।",
+          "বাংলা ব্যকরণ ও নির্মিতি",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 5
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 5,
+      "book_name_bn": "গণিত",
+      "book_name_en": null,
+      "subject": "গণিত",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "গণিত",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEdWROeTkxTGhaeG8/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1TXFFCPaB54WpbP-VrG7PsyAwNKCZnqCk/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৫।",
+          "গণিত",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 6
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 6,
+      "book_name_bn": "কৃষি শিক্ষা",
+      "book_name_en": null,
+      "subject": "কৃষি শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "কৃষি শিক্ষা",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEUzRpeWpwR1hjbkk/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1bH_Eunb9ePU2x2NnTzbqBc0We-s1c1Fj/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৬।",
+          "কৃষি শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 7
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 7,
+      "book_name_bn": "গার্হস্থ্য বিজ্ঞান",
+      "book_name_en": null,
+      "subject": "গার্হস্থ্য বিজ্ঞান",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "গার্হস্থ্য বিজ্ঞান",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EELV9OYTV0VmxheU0/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1IDBQHTzbkqpcobEGO7NDjj4UaX_65gEp/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৭।",
+          "গার্হস্থ্য বিজ্ঞান",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 8
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 8,
+      "book_name_bn": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "book_name_en": null,
+      "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "বাংলাদেশ ও বিশ্বপরিচয়",
+          "url": "#",
+          "host": null,
+          "invalid_url": true,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/12A88LHbbfQRa8vquEx7gSZ-3Ayp46CZm/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৮।",
+          "বাংলাদেশ ও বিশ্বপরিচয়",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 9
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 9,
+      "book_name_bn": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "book_name_en": null,
+      "subject": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEcTZlSEJfaDNwU0k/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1Z4pzuhjwoC2pmGN-ATWcC9_ndFTgLOBR/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "৯।",
+          "শারীরিক শিক্ষা ও স্বাস্থ্য",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 10
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 10,
+      "book_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "book_name_en": null,
+      "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "তথ্য ও যোগাযোগ প্রযুক্তি",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEV045ek1laWRKVEU/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1VJCy13V7TAkQ8H1Y6Jxy8-caRJJQmDAL/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১০।",
+          "তথ্য ও যোগাযোগ প্রযুক্তি",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 11
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 11,
+      "book_name_bn": "কর্ম ও জীবনমুকী শিক্ষা",
+      "book_name_en": null,
+      "subject": "কর্ম ও জীবনমুকী শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "কর্ম ও জীবনমুকী শিক্ষা",
+          "url": "https://drive.google.com/file/d/0B8L6VJQZe3EEaFd1MEVMc2ZTUXc/view",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1Y4iCrtqrx6daGaNEEDnwZ7cVn4eUSgzW/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১১।",
+          "কর্ম ও জীবনমুকী শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 12
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 12,
+      "book_name_bn": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "book_name_en": null,
+      "subject": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EERjVMNHBUcUdKVWc",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1iGrEIYbDg8MP3jwVhxvWyQmW4VKpkLom/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১২।",
+          "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 13
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 13,
+      "book_name_bn": "ইসলাম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "ইসলাম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "ইসলাম ও নৈতিক শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEaW5BdFl6TmR4WFU",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1ml5LEHdmxucb1eEofIQKgrP68OoibqaA/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১৩।",
+          "ইসলাম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 14
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 14,
+      "book_name_bn": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEUjRHdlY4TFpkbjA",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1w6Tnpn8E16O6XJEYVfEs2CX-3-i4kL6s/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১৪।",
+          "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 15
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 15,
+      "book_name_bn": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEQU5qd3ZzV04xOWs",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1-mL0lzM92Awk9bP4drg7za2_iUxdg51L/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১৫।",
+          "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 16
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 16,
+      "book_name_bn": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "book_name_en": null,
+      "subject": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পাঠ্যপুস্তকের নাম",
+          "column_index": 1,
+          "label": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+          "url": "https://drive.google.com/open?id=0B8L6VJQZe3EEQUk1b24ycXAwS0E",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "other"
+        },
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/1dLzPytyh9ja3PPip600it7lWuio1Hpk4/view?usp=drive_link",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 2,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১৬।",
+          "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+          ""
+        ]
+      }
+    },
+    {
+      "source": {
+        "file_name": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "file_path": "2017/২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+        "page_title": "২০১৭ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+        "content_last_updated": "কনটেন্টটি শেষ হাল-নাগাদ করা হয়েছে: রবিবার, ৬ আগস্ট, ২০২৩ এ ০৪:৪৭ PM",
+        "table_index": 1,
+        "row_index": 17
+      },
+      "curriculum_year_label": "2017",
+      "education_stream": "unknown",
+      "class": "সপ্তম",
+      "serial": 17,
+      "book_name_bn": "চারু ও কারুকলা",
+      "book_name_en": null,
+      "subject": "চারু ও কারুকলা",
+      "version_or_edition": null,
+      "language_versions": [
+        "bangla"
+      ],
+      "download_links": [
+        {
+          "variant": "unknown",
+          "column_header": "পিডিএফ ফাইল",
+          "column_index": 2,
+          "label": "",
+          "url": "http://drive.google.com/file/d/13vJwKizzITpLDE0WWcv3SodWgj0Z6sOa/view?usp=sharing",
+          "host": "drive.google.com",
+          "invalid_url": false,
+          "link_type": "direct_book"
+        }
+      ],
+      "download_link_count": 1,
+      "additional_info": {
+        "table_headers": [
+          "ক্রমিক নং",
+          "পাঠ্যপুস্তকের নাম",
+          "পিডিএফ ফাইল"
+        ],
+        "raw_cells": [
+          "১৭।",
+          "চারু ও কারুকলা",
+          ""
+        ]
+      }
+    }
+  ]
+}

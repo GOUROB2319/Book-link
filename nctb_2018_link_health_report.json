@@ -1,0 +1,55 @@
+{
+  "source_file": "nctb_2018_all_books_links.json",
+  "total_urls_in_dataset": 540,
+  "checked_at": "2026-03-02",
+  "unique_urls_checked": 462,
+  "ok_urls": 457,
+  "failed_urls": 5,
+  "status_breakdown": {
+    "200": 457,
+    "404": 5
+  },
+  "nctb_tls_bypass_success_count": 0,
+  "failed_details": [
+    {
+      "url": "https://drive.google.com/open?id=1530-bjvz5p7wnNEfxznsXsgkOW6TkDQo",
+      "ok": false,
+      "status_code": 404,
+      "final_url": "https://drive.google.com/open?id=1530-bjvz5p7wnNEfxznsXsgkOW6TkDQo",
+      "error": null,
+      "tls_bypass_used": false
+    },
+    {
+      "url": "https://drive.google.com/open?id=1WW1Iey3QmsDiPp_cNxUoTDw2rV0CK87q",
+      "ok": false,
+      "status_code": 404,
+      "final_url": "https://drive.google.com/open?id=1WW1Iey3QmsDiPp_cNxUoTDw2rV0CK87q",
+      "error": null,
+      "tls_bypass_used": false
+    },
+    {
+      "url": "https://drive.google.com/open?id=1Z7xWD-w-jxGrt_AG8uo6cfud-qY0aGh9",
+      "ok": false,
+      "status_code": 404,
+      "final_url": "https://drive.google.com/open?id=1Z7xWD-w-jxGrt_AG8uo6cfud-qY0aGh9",
+      "error": null,
+      "tls_bypass_used": false
+    },
+    {
+      "url": "https://drive.google.com/open?id=1aTFb-lLslj_1R09kF7iXS0aEook5AI4z",
+      "ok": false,
+      "status_code": 404,
+      "final_url": "https://drive.google.com/open?id=1aTFb-lLslj_1R09kF7iXS0aEook5AI4z",
+      "error": null,
+      "tls_bypass_used": false
+    },
+    {
+      "url": "https://drive.google.com/open?id=1wKap4x95sVgnaDNJdg3s_ksD0hRhlpF4",
+      "ok": false,
+      "status_code": 404,
+      "final_url": "https://drive.google.com/open?id=1wKap4x95sVgnaDNJdg3s_ksD0hRhlpF4",
+      "error": null,
+      "tls_bypass_used": false
+    }
+  ]
+}
